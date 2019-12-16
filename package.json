@@ -1,10 +1,10 @@
 {
     "name": "electronautoupdate",
-    "version": "0.1.18",
+    "version": "0.1.2",
     "author": "Devendiran Kumar",
     "homepage": "./",
     "description": "An example of an autoupdating electron app",
-    "repository": "https://github.com/devendiran/eau",
+    "repository": "https://github.com/nnavaneetha/compas-contractor-eclipse",
     "main": "main.js",
     "dependencies": {
         "electron-updater": "^2.18.2"
