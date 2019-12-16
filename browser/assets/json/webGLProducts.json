@@ -1,0 +1,52 @@
+[
+    {
+        "displayName": "Safety Switches",
+        "assetName": "Safety Switches",
+        "productPageRoute": "product-family/general-heavy-duty-safety-switches"
+    },
+    {
+        "displayName": "Switchboards",
+        "assetName": "Distribution Switchboards",
+        "productPageRoute": "products/switchboards"
+    },
+    {
+        "displayName": "Busway Systems",
+        "assetName": "Busway Systems",
+        "productPageRoute": "products/busway-systems"
+    },
+    {
+        "displayName": "Power Panels",
+        "assetName": "Power Panels",
+        "productPageRoute": "product-family/power-panels"
+    },
+    {
+        "displayName": "Load Centers",
+        "assetName": "Load Centers",
+        "productPageRoute": "product-family/residential-load-centers"
+    },
+    {
+        "displayName": "Metering",
+        "assetName": "Metering",
+        "productPageRoute": "products/multi-family-metering"
+    },
+    {
+        "displayName": "Medium-voltage motor controllers",
+        "assetName": "Medium-voltage motor controllers",
+        "productPageRoute": "product-family/medium-voltage-motor-controllers"
+    },
+    {
+        "displayName": "Gas Insulated Switchgear",
+        "assetName": "Gas Insulated Switchgear",
+        "productPageRoute": "products/low-voltage-switchgear"
+    },
+    {
+        "displayName": "Lighting Panels",
+        "assetName": "Power Panels",
+        "productPageRoute": "product-family/lighting-panels"
+    },
+    {
+        "displayName": "UPB",
+        "assetName": "Power Panels",
+        "productPageRoute": "product-family/upb"
+    }
+]

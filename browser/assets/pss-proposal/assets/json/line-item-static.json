@@ -1,0 +1,6 @@
+[
+  {  "name": "Submittal", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "submittal" },
+  {  "name": "Installation O&M", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "installationOnm" },
+  {  "name": "Approval Drawings & Record", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "approvalDnR" },
+  {  "name": "FBX", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "fbxmodels" }
+]

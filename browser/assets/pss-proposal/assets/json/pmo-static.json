@@ -1,0 +1,13 @@
+[
+  {"name": "Correspondance", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "correspondance"},
+  {"name": "Customer Purchase Orders and Change Requests", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "externalcontactsandchangerequests"},
+  {"name": "Financials", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "financials"},
+  {"name": "Vendor Purchase Orders and Quotes", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "internalcontractsandvendorquotes"},
+  {"name": "Kickoff Meeting minutes & Schedules", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "projectphases"},
+  {"name": "Release", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "release"},
+  {"name": "Handover Documents", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "schedule"},
+  {"name": "Contract Drawings and Specifications", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "cpmrequests"},
+  {"name": "Closeout Documents", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "submittalsandonm"},
+  {"name": "Submittals and O&M's", "createDate": "", "modifiedDate": "", "parentFolderId": "", "folderId": "-1", "sName": "", "type": "customerplansandspecifications"}
+]
+

@@ -1,0 +1,14 @@
+{
+  "_comment": "environment will be 'production', 'quality'. Please change accordingly",
+  "environment": "quality",
+  "quality": {
+    "rootFolderId": "127163541",
+    "rootAppName": "Compas_DCC",
+    "rootPathName": "COMPAS_DCC"
+  },
+  "production": {
+    "rootFolderId": "253107",
+    "rootAppName": "Compas_SQR",
+    "rootPathName": "Compas_SQR"
+  }
+}

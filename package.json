@@ -1,0 +1,21 @@
+{
+    "name": "electronautoupdate",
+    "version": "0.1.18",
+    "author": "Devendiran Kumar",
+    "homepage": "./",
+    "description": "An example of an autoupdating electron app",
+    "repository": "https://github.com/devendiran/eau",
+    "main": "main.js",
+    "dependencies": {
+        "electron-updater": "^2.18.2"
+    },
+    "scripts": {
+        "build": "build --win",
+        "ship": "build --win -p always",
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^1.7.5",
+        "electron-builder": "^19.20.1"
+    }
+}

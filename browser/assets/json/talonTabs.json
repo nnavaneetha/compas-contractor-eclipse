@@ -1,0 +1,50 @@
+{
+    "sockets": [
+        "Ring or Ringless",
+        "Horn, Lever, Test Block or No Bypass",
+        "4, 5 or 7 jaws",
+        "135 – 400 amps",
+        "Single and three phase",
+        "Various enclosure sizes",
+        "Accessories available"
+    ],
+    "temporaryPower": [
+        {
+            "subHeading": "Construction sites:",
+            "description": "Installed for temporary use only until electrical power is available at the site",
+            "details": []
+        },
+        {
+            "subHeading": "RV Parks/Campgrounds:",
+            "description": null,
+            "details": [
+                "Permanent power source for the RV’s distribution system",
+                "Light, water, phone, and television options"
+            ]
+        },
+        {
+            "subHeading": "Configurations Include:",
+            "description": null,
+            "details": [
+                "Surface or Pedestal Mount",
+                "Loop Feed Lugs Available",
+                "Main Breaker Disconnect",
+                "Utility grade metering ",
+                "Overhead or Underground Feed",
+                "Ring or Ringless",
+                "Horn or Lever Bypass"
+            ]
+        },
+        {
+            "subHeading": "AC Disconnects:",
+            "description": null,
+            "details": [
+                "30A, 60A",
+                "Non-fused pullout / switch",
+                "Fused",
+                "Plastic / Steel",
+                "GFCI Option"
+            ]
+        }
+    ]
+}

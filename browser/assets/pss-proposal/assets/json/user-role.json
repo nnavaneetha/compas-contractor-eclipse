@@ -1,0 +1,16 @@
+{
+  "allowedUserId": {
+    "pmo": ["KRISNX", "krisnx", "atssc02", "atssc03"],
+    "map": ["KRISNX", "krisnx", "atssc02", "atssc03"],
+    "qrcode": ["KRISNX", "krisnx"],
+    "revit": ["KRISNX", "krisnx"],
+    "global": ["KRISNX", "krisnx"]
+  },
+  "allowedUerRole": {
+    "pmo": ["BU17_Proj_Mgmt_Office"],
+    "map": ["BU03_Pricing_Analyst"],
+    "qrcode": [],
+    "revit": [],
+    "global": []
+  }
+}

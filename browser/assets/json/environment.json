@@ -1,0 +1,20 @@
+{
+  "_comment": "environment will be 'production', 'quality'. Please change accordingly",
+  "environment": "production",
+  "quality": {
+    "rootFolderId": "127163541",
+    "rootAppName": "Compas_DCC",
+    "rootPathName": "COMPAS_DCC",
+    "powertrekUrl": "https://d09.compasquality.siemens-info.com/COMPASAppStore/power-trek/index.html",
+    "webglViewerUrl": "https://d09.compasquality.siemens-info.com/COMPASAppStore/unity-webgl/index.html",
+    "mCompasUrl": "https://d09.compasquality.siemens-info.com/mCompas/"
+  },
+  "production": {
+    "rootFolderId": "253107",
+    "rootAppName": "Compas_SQR",
+    "rootPathName": "Compas_SQR",
+    "powertrekUrl": "https://contractor.compas.siemens-info.com/COMPASAppStore/power-trek/index.html",
+    "webglViewerUrl": "https://contractor.compas.siemens-info.com/COMPASAppStore/unity-webgl/index.html",
+    "mCompasUrl": "https://www.compas.siemens-info.com/mCompas/"
+  }
+}

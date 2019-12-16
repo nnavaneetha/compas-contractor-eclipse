@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta name="google-site-verification" content="n8IXlaYGHNpoNSOwk1MQg04osUerpzYOfDN-jWqpTp8" />
+  <meta charset="utf-8">
+  <title>Siemens Consultant Contractor</title>
+  <base href="./index.html">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link type="text/css" rel="stylesheet" href="assets/magic360L/magic360L/magic360.scss" />
+  <script type="text/javascript" src="assets/magic360L/magic360L/magic360.js"></script>
+  <script src="assets/Chatbot/globals.js"></script>
+  <!-- <script src="assets/Chatbot/siemens-bot.js?v=2"></script>
+<script src="https://sdk.amazonaws.com/js/aws-sdk-2.41.0.min.js"></script> -->
+<link rel="stylesheet" href="styles.aa5f821eeb81b3d6d428.css"></head>
+
+<body>
+
+  <app-root></app-root>
+  <section id="unsupported-browser" class="unsupported-browser" style="display:none;">
+    <div class="text-center">
+      <div class="title"><strong>This site will not work with Internet Explorer.</strong></div>
+      <div>Please use one of these browers:</div>
+      <br>
+      <div style="text-align: center">
+        <div class="row" style="width: 50%; display: inline-flex">
+          <div class="col-md-4">
+            <a class="browser" href="https://www.google.com/chrome/" target="_blank">
+              <img src="assets/IESupport/Chrome1.png" alt="unsupported-image"  />
+            </a><br>
+            <a class="browser" href="https://www.google.com/chrome/" target="_blank"><strong>Google Chrome</strong></a><br>
+            <a href="https://www.google.com/chrome/" target="_blank"> Download</a>
+          </div>
+          <div class="col-md-4">
+            <a class="browser" href="https://www.microsoft.com/en-in/software-download/windows10" target="_blank">
+              <img src="assets/IESupport/Edge1.png" alt="unsupported-image"  />
+            </a><br>
+            <a class="browser" href="https://www.microsoft.com/en-in/software-download/windows10" target="_blank"><strong>Microsoft Edge</strong></a><br>
+            <a href="https://www.microsoft.com/en-in/software-download/windows10" target="_blank"> Download</a>
+          </div>
+          <div class="col-md-4">
+            <a class="browser" href="https://www.apple.com/macos/mojave/" target="_blank">
+              <img src="assets/IESupport/safari1.png" alt="unsupported-image"  />
+            </a><br>
+            <a class="browser" href="https://www.apple.com/macos/mojave/" target="_blank"><strong>Safari</strong></a><br>
+            <a href="https://www.apple.com/macos/mojave/" target="_blank"> Download</a>
+          </div>
+        </div>
+      </div>
+      <br>
+      <div>If you already have one of the browsers installed, please copy the link and paste it in the recommended
+        browser to get started</div>
+      <br>
+      <div class="action-btn">
+        <div class="url-text text-truncate" id="url-text"></div>
+        <div class="update-btn" id="myTooltip" onclick="copyText(window.top.location.href)"><strong>COPY LINK</strong>
+        </div>
+      </div>
+    </div>
+
+  </section>
+
+
+  <script>
+    var urlElement = document.getElementById('url-text');
+    urlElement.innerHTML = window.top.location.href;
+    urlElement.title = window.top.location.href;
+    // Opera 8.0+
+    var isOpera = (!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
+
+    // Firefox 1.0+
+    var isFirefox = typeof InstallTrigger !== 'undefined';
+
+    // Safari 3.0+ "[object HTMLElementConstructor]" 
+    var isSafari = /constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || safari.pushNotification);
+
+    // Internet Explorer 6-11
+    var isIE = /*@cc_on!@*/false || !!document.documentMode;
+
+    // Edge 20+
+    var isEdge = !isIE && !!window.StyleMedia;
+
+    // Chrome 1+
+    var isChrome = !!window.chrome && !!window.chrome.webstore;
+
+    // Blink engine detection
+    var isBlink = (isChrome || isOpera) && !!window.CSS;
+
+    var element = document.getElementById('unsupported-browser');
+    if (isIE || isOpera) {
+      element.classList.add('d-block');
+      //       setTimeout(function() {      alert("IE browser is not supported. Please open the page using Chrome/Edge/Safari")
+      // }, 1000);
+    }
+    else if (element) {
+      element.classList.add('d-none');
+    }
+
+    function copyText(val) {
+      let selBox = document.createElement('textarea');
+      selBox.style.position = 'fixed';
+      selBox.style.left = '0';
+      selBox.style.top = '0';
+      selBox.style.opacity = '0';
+      selBox.value = val;
+      document.body.appendChild(selBox);
+      selBox.focus();
+      selBox.select();
+      document.execCommand('copy');
+      document.body.removeChild(selBox);
+
+      var tooltip = document.getElementById('myTooltip');
+      tooltip.innerHTML = "<strong>Link Copied</strong>";
+
+      setTimeout(function () {
+        tooltip.innerHTML = "<strong>COPY LINK</strong>";
+      }, 2000)
+    }
+
+  </script>
+
+<script type="text/javascript" src="runtime.15e5e6f3ede74a85f2ff.js"></script><script type="text/javascript" src="polyfills.b6d24183db8ea8c202dd.js"></script><script type="text/javascript" src="scripts.52c82cca9dda8d724745.js"></script><script type="text/javascript" src="main.42813615527b84f82bf1.js"></script></body>
+<script>
+  const ipcRenderer = require('electron').ipcRenderer;
+
+  // wait for an updateReady message
+  ipcRenderer.on('updateReady', function(event, text) {
+      // changes the text of the button
+      var container = document.getElementById('ready');
+      container.innerHTML = "new version ready!";
+  })
+</script>
+Version: <span id="version">v0.1.10</span>
+<!-- the button onClick sends a quitAndInstall message to the electron main process -->
+<button id="ready" onClick="ipcRenderer.send('quitAndInstall')">no updates ready</button>
+
+</html>

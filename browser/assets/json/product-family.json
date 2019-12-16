@@ -1,0 +1,3352 @@
+[
+    {
+        "webGlModel": null,
+        "route": "general-purpose-molded-case-circuit-breakers",
+        "heading": "General Purpose and Sentron Molded Case Circuit Breakers",
+        "headline": "Molded Case Circuit Breakers For Any Application",
+        "introDescription": "Siemens Molded Case circuit breakers have a long history of excellent performance in both the commercial and industrial market segments; they are tried and true in the most critical applications. Features include field installable external accessories, series connected short circuit ratings, and many sizes for motor circuit protectors & molded case switches.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Reference Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/MoldedCaseBreakers/docs_MoldedCaseBreakers/SIE_BR_MCCB_ReferenceGuide.pdf"
+                },
+                {
+                    "name": "General App Catalog and Product Guide",
+                    "url": "https://w3.usa.siemens.com/us/internet-dms/btlv/CircuitProtection/MoldedCaseBreakers/docs_MoldedCaseBreakers/Siemens-Molded-Case-Circuit-Breakers-Gen-App-Catalog-QJ_Product_Guide.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/General Purpose and Sentron Molded Case Circuit Breakers.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Product Details",
+                        "description": null,
+                        "details": [
+                            "Global Ratings (UL489, CSA, CE, NOM, HID, HACR, SWD)",
+                            "15-2000A Ratings (fixed/interchangeable)",
+                            "Field installable external accessories",
+                            "Series connected short circuit ratings",
+                            "Thermal Magnetic & Solid States",
+                            "100% rated frames available",
+                            "Many sizes for motor circuit protectors & molded case switches"
+                        ]
+                    },
+                    {
+                        "subHeading": "Applications",
+                        "description": null,
+                        "details": [
+                            "Industrial",
+                            "Commercial",
+                            "OEM"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-07-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Low Voltage Circuit Breakers",
+        "productSelector": "mccb",
+        "parentRoute": "low-voltage-circuit-breakers",
+        "pageInW3": "General Purpose Molded Case Circuit Breakers Sentron Molded Case Circuit Breakers"
+    },
+    {
+        "webGlModel": null,
+        "route": "3va-molded-case-circuit-breakers",
+        "heading": "3VA Molded Case Circuit Breakers",
+        "headline": "One system. A variety of applications.",
+        "introDescription": "Whether in industrial applications or buildings, our new 3VA molded case circuit breaker offers safe, efficient and flexible application options for low-voltage and medium-voltage power distribution. The 3VA range of molded case circuit breakers provides UL frame sizes covering 125A to 600A with the 3VA5 and 3VA6 models, as well as IEC frame sizes covering 100A to 630A with the 3VA1 and 3VA2 models.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Systems Manual",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/306738/SIE_IM_3VA6_Systems_Manual.pdf"
+                },
+                {
+                    "name": "3VA6 Molded Case Circuit Breakers - Communications Manual:",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IM_3VA6_Communications_Manual.pdf"
+                },
+                {
+                    "name": "Resource Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/MoldedCaseBreakers/docs_MoldedCaseBreakers/docs_3VA/SIE_FL_3VA_ResourceGuide.pdf"
+                },
+                {
+                    "name": "Enclosed Circuit Breaker",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/MoldedCaseBreakers/docs_MoldedCaseBreakers/docs_3VA/SIE_FL_3VA_EnclosedCirBreaker.pdf"
+                },
+                {
+                    "name": "Series Ratings",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/MoldedCaseBreakers/docs_MoldedCaseBreakers/docs_3VA/SIE_CR_3VA_SeriesRatingsUL.xlsx"
+                },
+                {
+                    "name": "Molded Case Circuit Breakers - Cross Reference: ",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/327744/SIE_CR_MCCB_CrossRef.xlsm"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/3VA Molded Case Circuit Breakers.jpg",
+        "products": [
+            {
+                "name": "3VA5 Molded Case Circuit Breakers",
+                "description": "A thermal-magnetic trip unit is the basic principle for providing overload and short-circuit protection. This line has been designed for economical, cost-efficient installations up to 600A. It is suitable for use in one or three-phase networks, AC networks, and with DC currents.",
+                "imageUrl": "assets/family/3VA5-circuit-breaker.png",
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            {
+                                "key": "Rated current",
+                                "value": "15-600A"
+                            },
+                            {
+                                "key": "Number of poles",
+                                "value": "1-4"
+                            },
+                            {
+                                "key": "Short circuit rating at 480VAC",
+                                "value": "25, 35, 65, 100"
+                            },
+                            {
+                                "key": "Max voltage rating",
+                                "value": "600Y, 600V"
+                            },
+                            {
+                                "key": "Trip type",
+                                "value": "Thermal-magnetic"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "3VA6 Molded Case Circuit Breakers",
+                "description": "The molded case circuit breakers with electronic trip units reliably perform all the tasks required for circuit protection and protection of starter combinations. This series is designed for applications with increased requirements, such as increased interrupting capacity, integrated metering functions or communication capabilities.",
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/804766309908_V01_R01_C03.jpg",
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            {
+                                "key": "Rated current",
+                                "value": "40-600A"
+                            },
+                            {
+                                "key": "Number of poles",
+                                "value": "3-4"
+                            },
+                            {
+                                "key": "Short circuit rating at 480VAC",
+                                "value": "35, 65, 100, 150"
+                            },
+                            {
+                                "key": "Max voltage rating",
+                                "value": "600Y, 600V"
+                            },
+                            {
+                                "key": "Trip type",
+                                "value": "Electronic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-07-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Low Voltage Circuit Breakers",
+        "productSelector": "mccb",
+        "parentRoute": "low-voltage-circuit-breakers",
+        "pageInW3": "3VA Molded Case Circuit Breakers"
+    },
+    {
+        "webGlModel": null,
+        "route": "vl-molded-case-circuit-breakers",
+        "heading": "VL Molded Case Circuit Breakers",
+        "headline": "Designed for global requirements utilizing a compact design for a wide range of ratings.",
+        "introDescription": "VL breaker family offers a compact and modular design to suit a wide range of rating and application. VL family ranges from 150A to 1600A and is available with interchangeable trip units. The VL family also offers Molded Case Switches, Motor Circuit Protector and complete breakers with non-interchangeable trip units.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Information Guide",
+                    "url": "https://w3.usa.siemens.com/us/internet-dms/btlv/CircuitProtection/MoldedCaseBreakers/docs_MoldedCaseBreakers/SIE_TA_VL_Info_Guide.pdf"
+                },
+                {
+                    "name": "Features Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/MoldedCaseBreakers/docs_MoldedCaseBreakers/SIE_BR_VL_Features_Benefits.pdf"
+                },
+                {
+                    "name": "Communications Quickstart Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/MoldedCaseBreakers/docs_MoldedCaseBreakers/SIE_TA_VL_Comm_Quickstart.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/VL Molded Case Circuit Breakers.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Product details",
+                        "description": null,
+                        "details": [
+                            "UL, CSA, NOM, IEC, CE and CCC rated breakers",
+                            "Offers UL listed 600V DC breakers",
+                            "Pick-up and time delay setting do not overlap across frames for easy coordination",
+                            "Wide range of field installable internal and external accessories",
+                            "Two groups of accessories cover entire product portfolio",
+                            "Electronic breaker offers LCD display",
+                            "Enclosure is available up to 250A rating"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-07-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Low Voltage Circuit Breakers",
+        "productSelector": "mccb",
+        "parentRoute": "low-voltage-circuit-breakers",
+        "pageInW3": "VL Molded Case Circuit Breakers"
+    },
+    {
+        "webGlModel": null,
+        "route": "wl-power-breakers",
+        "heading": "WL Power Circuit Breakers",
+        "headline": "Siemens WL circuit breakers are available in a style to meet every need",
+        "introDescription": "If you are looking for lower operating costs, less downtime, and better communication capabilities, and you want to work with fewer parts, in less space, and with more sophisticated capabilities, with the assurance of fit-and forget reliability, then WL Circuit Breakers are your answer. They also provide you with the freedom to make last-minute changes, or take advantage of quick-ship opportunities. All WL Breakers are assembled-to-order and primary-injection tested. They are available with short lead times from our Texas Breaker Plant.",
+        "literatureLink": {
+            "section1Name": "Instruction sheets",
+            "section1": [
+                {
+                    "name": "UL489 Operator's Manual",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IM_WL_UL489.pdf"
+                },
+                {
+                    "name": "UL1066 Operator's Manual",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_OP_WL_UL1066PrintUpdated.pdf"
+                },
+                {
+                    "name": "Communication Manual - 3WL air circuit breakers via COM35 - PROFINET IO, Modbus TCP",
+                    "url": "https://support.industry.siemens.com/cs/document/109757987/communication-manual-3wl-air-circuit-breakers-via-com35-profinet-io-modbus-tcp?dti=0&lc=en-WW"
+                },
+                {
+                    "name": "Isolating Shutters White Paper",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/WL_Isolation_Shutters_Flyerlo-res.pdf"
+                },
+                {
+                    "name": "Modified Differential Ground Fault System Field Testingr",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_WP_WLMDGFT.pdf"
+                },
+                {
+                    "name": "WLTS Hand-Held Test Set",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_WP_WL_TestSetGuide.pdf"
+                },
+                {
+                    "name": "Design Guide for Integration of Fixed-Mount Circuit Breakers",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_PG_FMDG.pdf"
+                }
+            ],
+            "section2Name": "Technical Drawings",
+            "section2": [
+                {
+                    "heading": "WL 2D Drawings",
+                    "content": [
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "UL489"
+                                },
+                                {
+                                    "isHeader": true,
+                                    "content": "Frame Size 1"
+                                },
+                                {
+                                    "isHeader": true,
+                                    "content": "Frame Size 2"
+                                },
+                                {
+                                    "isHeader": true,
+                                    "content": "Frame Size 3"
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "Fixed"
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": null,
+                                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_DW_WL_FS1-UL489-Fixed-2D.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": null,
+                                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_DW_WL_FS2-UL489-Fixed-2D.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": null,
+                                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_DW_WL_FS3-UL489-Fixed-2D.zip"
+                                    }]
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "Drawout"
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": null,
+                                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_DW_WL_FS1-UL489-Drawout-2D.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": null,
+                                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_DW_WL_FS2-UL489-Drawout-2D.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": null,
+                                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_DW_WL_FS3-UL489-Drawout-2D.zip"
+                                    }]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "",
+                    "content": [
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "UL 1066 3-Pole"
+                                },
+                                {
+                                    "isHeader": true,
+                                    "content": "Frame Size 2"
+                                },
+                                {
+                                    "isHeader": true,
+                                    "content": "Frame Size 3"
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "Drawout"
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(N (50kA), S (65kA), H (85kA), L (100kA) Class)",
+                                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_DW_WL_FS2-3P-UL1066-Drawout-2D.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(H (50kA), L (100kA), M (150kA) Class)",
+                                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_DW_WL_FS3-3P-UL1066-Drawout-2D.zip"
+                                    }]
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "Drawout"
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(F (200kA) Class)",
+                                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_DW_WL_FS2-3P-UL1066-FClass-Drawout-2D.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(F (200kA) Class)",
+                                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_DW_WL_FS3-3P-UL1066-FClass-Drawout-2D.zip"
+                                    }]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "",
+                    "content": [
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "UL 1066 4-Pole"
+                                },
+                                {
+                                    "isHeader": true,
+                                    "content": "Frame Size 2"
+                                },
+                                {
+                                    "isHeader": true,
+                                    "content": "Frame Size 3"
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "Drawout"
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": null,
+                                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_DW_WL_FS2-4P-UL1066-Drawout-2D.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": null,
+                                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_DW_WL_FS3-4P-UL1066-Drawout-2D.zip"
+                                    }]
+                                }
+                            ]
+                        }
+                    ]
+                },
+
+                {
+                    "heading": "WL 3D Drawings",
+                    "content": [
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "UL489"
+                                },
+                                {
+                                    "isHeader": true,
+                                    "content": "Frame Size 1"
+                                },
+                                {
+                                    "isHeader": true,
+                                    "content": "Frame Size 2"
+                                },
+                                {
+                                    "isHeader": true,
+                                    "content": "Frame Size 3"
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "Fixed"
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(Front Connectors)",
+                                        "url": "https://w3.usa.siemens.com/datapool/us/LMV/docs/SIE_DW_WL_UL489FS1FixedFrontConnectors.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(Front Connectors)",
+                                        "url": "https://w3.usa.siemens.com/datapool/us/LMV/docs/SIE_DW_WL_UL489FS2FixedFrontConnectors.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(Front Connectors)",
+                                        "url": "https://w3.usa.siemens.com/datapool/us/LMV/docs/SIE_DW_WL_UL489FS3FixedFrontConnectors.zip"
+                                    }]
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "Fixed"
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(Rear Connectors)",
+                                        "url": "https://w3.usa.siemens.com/datapool/us/LMV/docs/SIE_DW_WL_UL489FS1FixedRearConnectors.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(Rear Connectors)",
+                                        "url": "https://w3.usa.siemens.com/datapool/us/LMV/docs/SIE_DW_WL_UL489FS2FixedRearConnectors.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(Rear Connectors)",
+                                        "url": "https://w3.usa.siemens.com/datapool/us/LMV/docs/SIE_DW_WL_UL489FS3FixedRearConnectors.zip"
+                                    }]
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "Fixed"
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(No Connectors)",
+                                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_DW_WL_UL489FS1FixedNoConnectors.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(No Connectors)",
+                                        "url": "https://w3.usa.siemens.com/datapool/us/LMV/docs/SIE_DW_WL_UL489FS2FixedNoConnectors.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(No Connectors)",
+                                        "url": "cvcvb"
+                                    }]
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "Drawout"
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": null,
+                                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_DW_WL_UL489FS1Drawout.zip"
+                                    }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": "-"
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": null,
+                                        "url": "cxvb"
+                                    }]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "heading": "",
+                    "content": [
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "UL 1066"
+                                },
+                                {
+                                    "isHeader": true,
+                                    "content": "Frame Size 2"
+                                },
+                                {
+                                    "isHeader": true,
+                                    "content": "Frame Size 3"
+                                }
+                            ]
+                        },
+                        {
+                            "cols": [
+                                {
+                                    "isHeader": true,
+                                    "content": "Drawout"
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": "(1/2)",
+                                        "url": "https://w3.usa.siemens.com/datapool/us/LMV/docs/SIE_DW_WL_UL1066FS2UnfusedDrawout_1.zipp"
+                                    },
+                                    {
+                                        "name": "(2/2)",
+                                        "url": "https://w3.usa.siemens.com/datapool/us/LMV/docs/SIE_DW_WL_UL1066FS2UnfusedDrawout_2.zip"
+                                        }]
+                                },
+                                {
+                                    "isHeader": false,
+                                    "content": [{
+                                        "name": null,
+                                        "url": "https://w3.usa.siemens.com/datapool/us/LMV/docs/SIE_DW_WL_UL1066FS2UnfusedDrawout_2.zip"
+                                        }]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "section3Name": "White papers, guides, and manuals",
+            "section3": [
+                {
+                    "name": "Locking Provisions App Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_SA_WLLockingAppGuide.pdf"
+                },
+                {
+                    "name": "Ground Fault Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_WP_WL_GroundFaultApplicationGuide.pdf"
+                },
+                {
+                    "name": "Telescoping lifting yokes",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/PowerBreakers/docs_PowerBreakers/SIE_IS_WLLiftingYokes.pdf"
+                },
+                {
+                    "name": "3WL DAS white paper",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_WP_WLDAS.pdf"
+                },
+                {
+                    "name": "WL Comm brochure",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_SA_WL_2008-CommApplication.pdf"
+                }],
+            "section4Name":"Software",
+            "section4": [{
+                "name": "PowerConfig Guide",
+                "url": "http://www.brainshark.com/siemens/IndustryMallConfigurator"
+            },{
+                "name": "Powerconfig (v3.10, .zip)",
+                "url": "https://w3.usa.siemens.com/datapool/us/LMV/docs/SIE_DL_WLPowerConfig.zip"
+            },
+            {
+                "name": "Add link to Siemens Time Current Curve (TCC) Software – Easy TCC",
+                "url": "https://digitalcontentcenter.compas.siemens-info.com/EasyTCC95Setup.zip"
+            },
+            {
+                "name": "Easy TCC Instructions",
+                "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_SW_Tutorial-EasyTCC.pdf"
+            },{
+                "name": "GSDML-file for COM35 (3WL9111-0AT65-0AA0) of the Air Circuit Breaker 3WL",
+                "url": "https://support.industry.siemens.com/cs/document/109763831/gsdml-file-for-com35-(3wl9111-0at65-0aa0)-of-the-air-circuit-breaker-3wl?dti=0&lc=en-WW"
+            }]
+        },
+        "imageLink": "assets/products/Prod_Family/WL Power Circuit Breakers.jpg",
+        "products": [
+            {
+                "name": "UL489",
+                "description": "Siemens UL489-Listed WL circuit breakers are available in three frame sizes in both fixed-mount and draw-out configurations. Designed to meet the needs of the UL891 and UL508 switchboard and panelboard market, they are available with a wide range of accessories, common across all ",
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/WLBreaker_Family.jpg",
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            {
+                                "key": "Amperes",
+                                "value": "200-5000A"
+                            },
+                            {
+                                "key": "Number of poles",
+                                "value": "3"
+                            },
+                            {
+                                "key": "Short Circuit Rating (kA)",
+                                "value": "FS1: 65/85/100, FS2: 65/100/150, FS3: 100/150"
+                            },
+                            {
+                                "key": "Voltage Rating",
+                                "value": "up to 600V"
+                            },
+                            {
+                                "key": "Operating Cycles",
+                                "value": "up to 10,000"
+                            },
+                            {
+                                "key": "Operating Temperatures ('C)",
+                                "value": "-25 to 40"
+                            },
+                            {
+                                "key": "Approval",
+                                "value": "UL489/CSA C22.2 No. 5-09"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "UL1066 (ANSI)",
+                "description": "Siemens UL1066-Listed WL circuit breakers are available in two frame sizes in both fixed-mount and draw-out configurations in both 3- and 4-pole versions. Designed to meet the demands of UL1558 Low-Voltage Switchgear, they can be applied in UL891, UL845 and UL508 equipment as well. they are available with a wide range of accessories, common across all ratings and frame sizes.  ",
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/WLBreaker_Family.jpg",
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            {
+                                "key": "Amperes",
+                                "value": "200-6000A"
+                            },
+                            {
+                                "key": "Number of poles",
+                                "value": "3, 4"
+                            },
+                            {
+                                "key": "Short Circuit Rating (kA)",
+                                "value": "FS2: 65/85/100/200 (w/fuses), FS3: 85/100/150/200 (w/fuses)"
+                            },
+                            {
+                                "key": "Voltage Rating",
+                                "value": "up to 635V"
+                            },
+                            {
+                                "key": "Operating Cycles",
+                                "value": "up to 15,000"
+                            },
+                            {
+                                "key": "Operating Temperatures ('C)",
+                                "value": "-25 to 40"
+                            },
+                            {
+                                "key": "Approval",
+                                "value": "UL1066/ANSI C37.13"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-07-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Low Voltage Circuit Breakers",
+        "productSelector": "",
+        "parentRoute": "low-voltage-circuit-breakers",
+        "pageInW3": "WL Power Circuit Breakers"
+    },
+    {
+        "webGlModel": "Safety Switches",
+        "route": "general-heavy-duty-safety-switches",
+        "heading": "General Duty, Heavy Duty, Double Throw and Specialty Switches",
+        "headline": "Superior performance and application flexibility.",
+        "introDescription": "Siemens General Duty, Heavy Duty, Double Throw and safety switches provide superior performance and application flexibility.  Available in a range of amperages with fusible and non-fusible designs for AC and DC applications with an extended array of accessories and replacement parts to reduce installation costs.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection and Application Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/GeneralDutySafetySwitches/docs_Literature/SIE_SA_VB2SafetySwitches_0516.pdf"
+                },
+                {
+                    "name": "Switch Configurator",
+                    "url": "http://w3.usa.siemens.com/us/internet-dms/btlv/CircuitProtection/GeneralDutySafetySwitches/docs_Configurators/SIE_CM_Switch-Configurator_1.2Lweb.xlsx"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/General Duty, Heavy Duty, Double Throw and Specialty Switches.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Product details",
+                        "description": null,
+                        "details": [
+                            {
+                                "key": "Amperes",
+                                "value": "30 - 1200 Amps"
+                            },
+                            {
+                                "key": "Voltage",
+                                "value": "240 – 600 Volt DC"
+                            },
+                            {
+                                "key": "Enclosures",
+                                "value": "Type 1, 3R, 12, 4/4X, 4X or 12/3R with stainless steel interior parts, Rolled flange enclosure design (30-200A)"
+                            },
+                            {
+                                "key": "Wiring",
+                                "value": "Lugs suitable for copper or aluminum at 60° or 75°C"
+                            },
+                            {
+                                "key": "Fuses",
+                                "value": "PUL Class T, R, J, L and H Fuses"
+                            },
+                            {
+                                "key": "Number of Poles",
+                                "value": "4 & 6 Pole Fusible and Non-Fusible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-04-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Switches",
+        "productSelector": "saswitch",
+        "parentRoute": "switches",
+        "pageInW3": "General Duty Safety Switches Heavy Duty Safety Switches Double Throw & Specialty Switches"
+    },
+    {
+        "webGlModel": "Metering",
+        "route": "powermod-metering",
+        "heading": "Power Mod Modular Metering",
+        "headline": "Robust, flexible and feature-rich line of modular multi-metering designed to exceed today's market demands.",
+        "introDescription": "Siemens Power Mod™ Main devices come in standard and pull box combination designs. Fusible Switch and Circuit Breaker disconnects are available, along with Tap and Pull box Lug only devices. All Power Mod Main devices feature the Siemens exclusive QuickSystem™ which has been proven to reduce labor by as much as 43% over comparable solutions, while allowing for lower material cost and incredible flexibility.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Siemens Modular Metering System, Power Mod",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/RPWP-POMOD-0210PowerModWhitePaper.pdf"
+                },
+                {
+                    "name": "Power Mod WSPD Surge Protection Units",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_PowerMod_WSPD.pdf"
+                },
+                {
+                    "name": "Power Mod: Type WT Feed Thru Tapbox",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_SA_POWERMOD_15_Feed_Thru_Tapbox.pdf"
+                },
+                {
+                    "name": "Power Mod: Cross Bus Main modules",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_SA_POWERMOD_14_Cross_Bus_Main.pdf"
+                },
+                {
+                    "name": "Selection and Application Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_SA_BFT_PowerMod.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Power Mod Modular Metering.jpg",
+        "products": [
+            {
+                "name": "WB, WB' Skinny, WEB, WXB, WBT, BFT",
+                "description": "Siemens Power Mod™ Main devices come in standard and pull box combination designs.",
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/6006559/SIE_PH_PowerMod_WBM31600TU-iso.png ",
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            {
+                                "key": "Amperage",
+                                "value": "400 - 2000 Amp"
+                            },
+                            {
+                                "key": "UL Listing",
+                                "value": "UL Standard # UL67, UL file # E27100"
+                            },
+                            {
+                                "key": "AIC rating",
+                                "value": "65k & 100k"
+                            },
+                            {
+                                "key": "Voltage",
+                                "value": "120 to 240V"
+                            },
+                            {
+                                "key": "Features",
+                                "value": "Single Phase or 3-Phase, stainless steel wing latches and rivets, G90 galvanized steel, ANSI 61 paint"
+                            },
+                            {
+                                "key": "NEMA Rating",
+                                "value": "3R"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "WS, WES, WXS",
+                "description": "Siemens Power Mod™ Main devices come in standard and pull box combination designs.",
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/6006559/SIE_PH_WES3600BU.png",
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            {
+                                "key": "Amperage",
+                                "value": "200 - 1200 Amp"
+                            },
+                            {
+                                "key": "UL Listing",
+                                "value": "UL Standard # UL98, UL file # E25506"
+                            },
+                            {
+                                "key": "AIC rating",
+                                "value": "100k"
+                            },
+                            {
+                                "key": "Voltage",
+                                "value": "120/240V"
+                            },
+                            {
+                                "key": "Features",
+                                "value": "Single Phase or 3-Phase, stainless steel wing latches and rivets, G90 galvanized steel, ANSI 61 paint"
+                            },
+                            {
+                                "key": "NEMA Rating",
+                                "value": "3R"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "WTB, WET, WT, WTBN",
+                "description": "Siemens Power Mod™ Main devices come in standard and pull box combination designs.",
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/6006559/SIE_PH_WTB32400TU.png",
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            {
+                                "key": "Amperage",
+                                "value": "400 - 2400 Amp"
+                            },
+                            {
+                                "key": "UL Listing",
+                                "value": "UL Standard # UL67, UL file # E27100"
+                            },
+                            {
+                                "key": "AIC rating",
+                                "value": "100k"
+                            },
+                            {
+                                "key": "Voltage",
+                                "value": "120/240V"
+                            },
+                            {
+                                "key": "Features",
+                                "value": "Single Phase or 3-Phase, stainless steel wing latches and rivets, G90 galvanized steel, ANSI 61 paint"
+                            },
+                            {
+                                "key": "NEMA Rating",
+                                "value": "3R"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-03-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Multi-Family Metering",
+        "productSelector": "powermod",
+        "parentRoute": "multi-family-metering",
+        "pageInW3": "Powermod Modular Metering"
+    },
+    {
+        "webGlModel": "Distribution Switchboards",
+        "route": "front-connected-switchboards",
+        "heading": "SB Front Connected and Stock Switchboards",
+        "headline": "Installation cost reduction and impact minization",
+        "introDescription": "Every aspect of Siemens switchboard design has been aimed at improving layout convenience, reducing installation costs and mnimizing the impact and cost of system changes. Regardless of your application or requirements, one of Siemens switchboard products will meet your needs.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Installation Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SB_Installation_Guide_Final.pdf"
+                },
+                {
+                    "name": "Instruction Manual",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IM_Switchboards.pdf"
+                },
+                {
+                    "name": "Blue Pennant Configuration Tool Instruction Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IM_BluePennantConfigurationTool.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/SB Front Connected and Stock Switchboards.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "SB Front Connected Switchboards",
+                        "description": null,
+                        "details": [
+                            "Up to 6000A ampere main bus rating and up to 600 volts AC",
+                            "Bus bracing up to 200KAIC",
+                            "Tin plated aluminum bus, silver plated copper bus or tin plated copper bus",
+                            "Bussing can be temperature or density rated",
+                            "Type 1 and Type 3R enclosures",
+                            "Main and branch circuit breakers up to 5000A and fusible switches up to 6000A"
+                        ]
+                    },
+                    {
+                        "subHeading": "Stock Switchboards ",
+                        "description": "Super Blue Pennant:",
+                        "details": [
+                            "Specifically designed to meet EUSERC requirements",
+                            "Provision for EUSERC utility metering",
+                            "Main fusible switch or circuit breaker",
+                            "Optional distribution panel"
+                        ]
+                    },
+                    {
+                        "subHeading": "BCT Service Cubicle",
+                        "description": null,
+                        "details": [
+                            "Provision for utility metering (non-EUSERC)",
+                            "Main molded case circuit breaker"
+                        ]
+                    },
+                    {
+                        "subHeading": "SCT Service Cubicle",
+                        "description": null,
+                        "details": [
+                            "Provision for utility metering (non-EUSERC)",
+                            "Main Vacu-Break fusible switches"
+                        ]
+                    },
+                    {
+                        "subHeading": "Front Connected and Stock Switchboards",
+                        "description": "Standards and Certifications:",
+                        "details": [
+                            "UL891",
+                            "NEC",
+                            "NEMA PB-2",
+                            "Seismically qualified",
+                            "Other equipment is UL listed as applicable"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-13-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Switchboards",
+        "productSelector": "",
+        "parentRoute": "switchboards",
+        "pageInW3": "SB Front Conncted Switchboards Stock Switchboads"
+    },
+    {
+        "webGlModel": "Distribution Switchboards",
+        "route": "rear-connected-switchboards",
+        "heading": "Rear Connected Switchboards",
+        "headline": "Siemens rear connected switchboard line suits the requirements of a wide range of applications ",
+        "introDescription": "Siemens  rear connected switchboards are designed, constructed, and tested to provide superior power distribution, power monitoring, and control. These switchboards provide front access for control wiring and rear access for cable connections and bus maintenance.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection and Application Guide",
+                    "url": "https://www.siemens.com/download?BTLV_21516"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Rear Connected Switchboards.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Equipment ratings/options are",
+                        "description": null,
+                        "details": [
+                            "600VAC Maximum",
+                            "3 Phase 3 Wire",
+                            "3 Phase 4 Wire",
+                            "50/60 Hz",
+                            "6000 amp maximum horizontal bus",
+                            "5000 amp maximum vertical bus",
+                            "NEMA 1 indoor",
+                            "NEMA 3R outdoor walk-in",
+                            "NEMA 3R outdoor non walk-in"
+                        ]
+                    },
+                    {
+                        "subHeading": "Siemens WL breakers can be manually or electrically operated and are available in two versions:",
+                        "description": null,
+                        "details": [
+                            "UL489 (insulated case circuit breakers)",
+                            "UL1066 (low voltage power breakers)"
+                        ]
+                    },
+                    {
+                        "subHeading": "Type RCS switchboards are designed tested and constructed in accordance with:",
+                        "description": null,
+                        "details": [
+                            "UL891 Deadfront Switchboards",
+                            "NEMA PB2 - Deadfront Distribution Switchboard",
+                            "Applicable requirements of National Electric Code (NEC)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-13-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Switchboards",
+        "productSelector": "",
+        "parentRoute": "switchboards",
+        "pageInW3": "Rear Connected Switchboards"
+    },
+    {
+        "webGlModel": null,
+        "route": "panelboard-switches",
+        "heading": "Panel Switches",
+        "headline": "The industry's most trusted safety switches",
+        "introDescription": "Siemens panelboard switches are available in a wide range of amerages with a variety of twin mounted versions for either group or individual mountings. Our panel switches offer the best in class safety with shunt trip options that can be used when ground fault protection is required. These switches are Siemens engineered with the signature Vacu-Break design that has a long track record of longevity and rugged durability.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection and Application Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/GeneralDutySafetySwitches/docs_Literature/SIE_SA_VB2SafetySwitches_0516.pdf"
+                },
+                {
+                    "name": "Switch Configurator",
+                    "url": "http://w3.usa.siemens.com/us/internet-dms/btlv/CircuitProtection/GeneralDutySafetySwitches/docs_Configurators/SIE_CM_Switch-Configurator_1.2Lweb.xlsx"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Panel Switches.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            {
+                                "key": "Amperage",
+                                "value": "30-1200A"
+                            },
+                            {
+                                "key": "Voltage ratings",
+                                "value": "240V-600V AC 250V DC"
+                            },
+                            {
+                                "key": "Number of Poles",
+                                "value": "2-3"
+                            },
+                            {
+                                "key": "UL Listing",
+                                "value": "UL98 listed in file #E6849"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-15-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Switches",
+        "productSelector": "",
+        "parentRoute": "switches",
+        "pageInW3": "Panel Switches"
+    },
+    {
+        "webGlModel": null,
+        "route": "disconnect-switches",
+        "heading": "Disconnect Switches",
+        "headline": "The industry's most trusted switches",
+        "introDescription": "Siemens offers a complete line of disconnect switches ranging from 16-800A to meet just about any commercial or industrial application.  The disconnect portfolio includes offerings that meet UL98 and UL508 Non-fusible standards.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection and Application Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/GeneralDutySafetySwitches/docs_Literature/SIE_SA_VB2SafetySwitches_0516.pdf"
+                },
+                {
+                    "name": "Switch Configurator",
+                    "url": "http://w3.usa.siemens.com/us/internet-dms/btlv/CircuitProtection/GeneralDutySafetySwitches/docs_Configurators/SIE_CM_Switch-Configurator_1.2Lweb.xlsx"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Disconnect Switches.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "UL508 3LD2 Non-fusible disconnects",
+                        "description": null,
+                        "details": [
+                            "16-250A ratings",
+                            "Handles available for NEMA 1, 3R, 12, and 4X",
+                            "Compact size",
+                            "Cost effective alternative to UL98 offerings",
+                            "Panel and door mount options"
+                        ]
+                    },
+                    {
+                        "subHeading": "UL 98 Fusible and Non-fuse disconnects",
+                        "description": null,
+                        "details": [
+                            "Two product offerings: Rotary Compact Fusible Switch (CFS), Rugged VBII Visible Blade Fusible and Non-fusible Switches",
+                            "Wide range of accessories and features for any application",
+                            "30-800A ratings",
+                            "Handles available for NEMA 1, 3R, 12, and 4X"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-05-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Switches",
+        "productSelector": "",
+        "parentRoute": "switches",
+        "pageInW3": "Disconnect Switches"
+    },
+    {
+        "webGlModel": null,
+        "route": "rear-connected-switchgear",
+        "heading": "Rear Connected Low Voltage Switchgear",
+        "headline": "Reliable and safe solution for power distribution systems",
+        "introDescription": "Reliability and safety are the two most important criteria in the proper functioning of a power distribution system, but both can be compromised if an electrical fault occurs. By integrating the right low voltage switchgear, greater reliability and safer operation can be achieved in the power distribution system.Siemens Type WL low voltage metal-enclosed switchgear is designed, constructed and tested to provide superior power distribution, power monitoring and control.  At the heart of the product is the World Class WL breaker.  The WL breaker has a proven performance track record of proven technology and quality.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "WL Low Voltage Metal-Enclosed Switchgear",
+                    "url": "https://w3.usa.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_SA_WL-LVMetalEnclosedSwitchgear.pdf"
+                },
+                {
+                    "name": "Not all Low Voltage Switchgear is created equal",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/347342/SIE_WP_Switchgear.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Rear Connected Low Voltage Switchgear.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            "Best-in-class pre-sales application and post-sales customer support",
+                            "Best-in-class arc flash mitigation solutions",
+                            "Modular design for maximum configuration flexibility",
+                            "Control and communication termination area located in front of equipment and segregated from power cable termination area that is located in rear of equipment",
+                            "Front accessible vertical and horizontal wiring channels",
+                            "No heat sinks on breaker or bus",
+                            "Three levels of horizontal bus through 5000 amps",
+                            "Breaker racking handle integral to the breaker",
+                            "All breaker settings and displays clearly visible with breaker door closed",
+                            "Field installable “drop in place” accessories and trip units",
+                            "Same accessories work for entire breaker line",
+                            "ModBus, ProfiBus and Ethernet communication",
+                            "Field installable ground fault protection and zone selective interlock",
+                            "Rogowski coil current sensors provide high metering accuracy and prevent saturation at high current levels"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-14-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Low Voltage Switchgear",
+        "productSelector": "",
+        "parentRoute": "low-voltage-switchgear",
+        "pageInW3": "Rear Connected Low Voltage Switchgear"
+    },
+    {
+        "webGlModel": null,
+        "route": "arc-resistant-switchgear",
+        "heading": "Arc Resistant Low Voltage Switchgear",
+        "headline": "Added degree of personnel protection with arc resistant low voltage",
+        "introDescription": "Siemens now offers arc resistant, metal-enclosed, low voltage switchgear solution designed to provide an additional degree of protection for personnel performing normal operating duties in proximity to the energized equipment. Such duties include opening or closing breakers, closed door breaker racking, reading instruments, or other activities that do not require cover removal or opening doors (other than auxiliary/instrument doors).",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Product guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_FL_WL-ArcResistantLVSwitchgear.pdf"
+                },
+                {
+                    "name": "Instruction and Installation Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_IM_WL%20Arc%20Resistant%20LVS.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Arc Resistant Low Voltage Switchgear.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            "UL listed, performance tested and classified as arc resistant in accordance with ANSI/IEEE C37.20.7-2007",
+                            "ANSI/IEEE Type 2B accessibility rating to protect personnel at the front, back and sides of the equipment.",
+                            "Maximum internal arcing short-circuit current: 100kA @ 508V and 85 kA @ 635V",
+                            "Maximum arcing duration: 500 ms"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-14-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Low Voltage Switchgear",
+        "productSelector": "",
+        "parentRoute": "low-voltage-switchgear",
+        "pageInW3": "Arc Resistant Low Voltage Switchgear"
+    },
+    {
+        "webGlModel": null,
+        "route": "front-connected-lv-switchgear",
+        "heading": "Front Connected Low Voltage Switchgear",
+        "headline": "Front connection accessibility",
+        "introDescription": "Front connected low voltage switchgear is designed to have all customer connections (incoming cable lugs, outgoing cable lugs, ground lugs, neutral disconnect, etc.) accessible from the front of the equipment. Additionally, front connected low voltage switchgear requires no rear access and can be mounted directly against a wall. With front connected low voltage switchgear, the rear breaker connection compartment is physically relocated to a separate vertical section beside the vertical section containing the breakers.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection and Application Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_SA_FrontConnectedWL.pdf"
+                },
+                {
+                    "name": "Instructiona and Installation Guide",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ElectricalApparatus/LowVoltageSwitchgear/docs_LowVoltageSwitchgear/SIE_IM_WL-FrontConnectedSwitchear.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Front Connected Low Voltage Switchgear.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            "All customer connections are accessible from the front of the switchgear",
+                            "Breaker compartmentalization",
+                            "Industry leading footprint",
+                            "Front mounted common breaker plug-in accessories – easy to install",
+                            "Field upgradeable trip units",
+                            "Channel shaped vertical bus that provides superior thermal & short circuit withstand performance",
+                            "Modbus, Profibus, or Ethernet communication",
+                            "Supports energy management and power quality analysis through advanced breaker metering and relaying capability",
+                            "Dynamic Arc Flash Sentry (DAS) – dual breaker parameter setting capability",
+                            "Optional arc-resistant construction is available"
+                        ]
+                    },
+                    {
+                        "subHeading": "Equipment ratings",
+                        "description": null,
+                        "details": [
+                            {
+                                "key": "Enclosure options",
+                                "value": "NEMA 1 Indoor"
+                            },
+                            {
+                                "key": "Vertical section depth",
+                                "value": "39.2\""
+                            },
+                            {
+                                "key": "Maximum system voltage",
+                                "value": "635V AC"
+                            },
+                            {
+                                "key": "Maximum breaker amperage",
+                                "value": "5000A"
+                            },
+                            {
+                                "key": "Maximum horizontal bus amperage",
+                                "value": "5000A"
+                            },
+                            {
+                                "key": "Maximum vertical bus amperage",
+                                "value": "5000A"
+                            },
+                            {
+                                "key": "Maximum short-circuit withstand rating (4 cycle)",
+                                "value": "100kA"
+                            },
+                            {
+                                "key": "Maximum short-time withstand rating (60 cycle)",
+                                "value": "100kA"
+                            },
+                            {
+                                "key": "Breaker construction",
+                                "value": "3 pole drawout"
+                            },
+                            {
+                                "key": "Bus bar material",
+                                "value": "silver plated copper"
+                            },
+                            {
+                                "key": "ANSI/IEEE",
+                                "value": "C37.13, C37.16, C37.17, C37.20.1, C37.50, C37.51"
+                            },
+                            {
+                                "key": "UL",
+                                "value": "1066, 1558"
+                            },
+                            {
+                                "key": "NEMA",
+                                "value": "SG3, SG5"
+                            }
+                        ]
+                    },
+                    {
+                        "subHeading": "Available options",
+                        "description": null,
+                        "details": [
+                            "Sm@rtGear",
+                            "Insulated/isolated bus",
+                            "Seismic certification – IBC, CBC, OSHPD",
+                            "CSA C22.2 No. 31 (cUL labeling)"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-14-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Low Voltage Switchgear",
+        "productSelector": "",
+        "parentRoute": "low-voltage-switchgear",
+        "pageInW3": "Front Connected Low Voltage Switchgear"
+    },
+    {
+        "webGlModel": "Metering",
+        "route": "pak-metering",
+        "heading": "Pak Metering",
+        "headline": "Ensured ease of handling, easy installation and maximum wall-space efficiency.",
+        "introDescription": "Siemens PAK Metering devices offer flexibility and easy installation to meet the requirements of multiple position metering projects.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "WPL Series Data Sheet",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_BR_UNIPAK_METERING_WPL.pdf"
+                },
+                {
+                    "name": "WEP Series Data Sheet",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_BR_UNIPAK_METERING_WEP.pdf"
+                },
+                {
+                    "name": "WP Series Data Sheet",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_BR_UNIPAK_METERING_WP.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Pak Metering.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Product details",
+                        "description": null,
+                        "details": [
+                            "Number of Meter Jaws: 4 or 5",
+                            "Voltage: 240B AC",
+                            "Amperes (per Meter position): up to 125A or 200A",
+                            "Amperes (Bus): up to 1000 amps",
+                            "Tenant Main Breakers Provisions for plug-in tenant circuit breakers: through 200A",
+                            "Number of Meter Positions: 2-6",
+                            "Service Overhead or underground with load top, bottom or back"
+                        ]
+                    },
+                    {
+                        "subHeading": "Industry Specifications",
+                        "description": null,
+                        "details": [
+                            "ANSI Standard #C 12.7-1987",
+                            "NEMA Standard #250-1985",
+                            "UL File #E27100",
+                            "UL Standard #50, 67, 414"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-03-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Multi-Family Metering",
+        "productSelector": "",
+        "parentRoute": "multi-family-metering",
+        "pageInW3": "Pak Metering"
+    },
+    {
+        "webGlModel": "Metering",
+        "route": "meter-mains",
+        "heading": "Meter Mains and Meter Combos",
+        "headline": "Siemens provides a range of meter combination load centers and meter mains  including a line of SOLAR ready meter combination load centers.",
+        "introDescription": "Meter combination load centers and meter mains that are built for safety, easy installation, long term quality and sustainability.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Meter Combinations: Selection and Application Guide",
+                    "url": "https://w3.usa.siemens.com/us/internet-dms/btlv/Residential/Residential/Meter%20Cominations%20and%20Mains/Meter_Combo_With_Meter_Over_Breaker_Section_%20contRPSA-MCSA1-0505.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Meter Mains and Meter Combos.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Meters",
+                        "description": null,
+                        "details": [
+                            "Available in 100A and 400A",
+                            "Voltage: 240B AC",
+                            "Over-under contruction, 100A and 125A versions",
+                            "Main breaker section includes 2 to 6 circuits"
+                        ]
+                    },
+                    {
+                        "subHeading": "Meter load center combinations",
+                        "description": null,
+                        "details": [
+                            "1-Phase, 3-Wire 120/240V AC",
+                            "UL listed, Suitable for use only as service entrance equipment",
+                            "22,000 AIC rated on most products",
+                            "Overhead and underground feed applications",
+                            "Load wires bottom or back exit only (some devices)",
+                            "100A, 125A, 150A, 200A and 320A continuous ratings available",
+                            "Horn bypass and Lever bypass products available",
+                            "5th jaw factory installed or available as Accessory kit for most products",
+                            "Side hinged door with one screw removal on many products",
+                            "Pad locking provisions on all devices",
+                            "RX type (or) HD type hub provision on top end wall on all Overhead Feed Devices"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-02-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Single-Family Metering",
+        "productSelector": "pds",
+        "parentRoute": "single-family-metering",
+        "pageInW3": "Meter Mains and Meter Combos"
+    },
+    {
+        "webGlModel": "Busway Systems",
+        "route": "low-amp-busway",
+        "heading": "Low Amperage Busway",
+        "headline": "Cost-effective low amp power distribution",
+        "introDescription": "XJ-L HD Busway is the optimal choice for both contractors and users concerned with designing superior electrical systems that require a high plug density and optimal space utilization. The compact design is ideal for limited working areas in computer manufacturing, laboratory or test facilities, schools, hospitals, and machine shops.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection and Application Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_SA_BuswayXJL.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Low Amp Busway.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Compact Size",
+                        "description": "Small cross section for applications where busway routing is constrained",
+                        "details": []
+                    },
+                    {
+                        "subHeading": "Joint Connection",
+                        "description": "Dual spring clamp assemblies ensure reliable, maintenance-free joints",
+                        "details": []
+                    },
+                    {
+                        "subHeading": "Safety",
+                        "description": "Plug-in outlets are IP2X finger safe (optional XOC outlet covers increase system to IP40)",
+                        "details": []
+                    },
+                    {
+                        "subHeading": "Reliability",
+                        "description": "Fundamental design has a 60 year history of reliability",
+                        "details": []
+                    },
+                    {
+                        "subHeading": "Service",
+                        "description": "Simple snap together installation, maintenance free joints, factory stock of critical components and large distribution inventory of bus plugs ensure quick and easy serviceability",
+                        "details": []
+                    },
+                    {
+                        "subHeading": "Fittings",
+                        "description": "Elbow, tee, crosses, flanged end, and tap boxes are offered in standard and custom configurations",
+                        "details": []
+                    },
+                    {
+                        "subHeading": "Compatibility",
+                        "description": "The full range of XJ-L HD bus plugs are interchangeable between 100A, 225A, and 400A busway",
+                        "details": []
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-15-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "Busway Systems",
+        "productSelector": "",
+        "parentRoute": "busway-systems",
+        "pageInW3": "Low Amp Busway"
+    },
+    {
+        "webGlModel": "Busway Systems",
+        "route": "sentron-busway",
+        "heading": "Sentron Busway",
+        "headline": "Cost-effective power delivery solution",
+        "introDescription": "When you need a cost-effective power delivery solution for an industrial plant, a hospital, shopping mall, or high-tech environment, you face the challenge of balancing performance with value to efficiently distribute power throughout your facility.Siemens Sentron Busway is engineered to ensure the safe and efficient distribution of power in industrial, commercial, and institutional environments worldwide. Thanks to an innovative design, you benefit from labor-saving installation and a flexible, compact bus system that is an ideal fit for most applications. Relative to cable and conduit, that busway can save up to 40% on total installed costs. Additionally, compared to cable and conduit, busway consumes about 50% less space than an equivalent cabled solution.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection and Application Guide",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_SA_SentronBusway.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Sentron Busway.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Plating",
+                        "description": "Unique tin plating provides excellent conductivity and resists outside elements from attaching to the bars",
+                        "details": []
+                    },
+                    {
+                        "subHeading": "Conductors",
+                        "description": "Compact construction of the Sentron busway conductors allow for a flexibility of configurations",
+                        "details": []
+                    },
+                    {
+                        "subHeading": "Housing",
+                        "description": "Distributes heat away from the conductors and provides an excellent ground path",
+                        "details": []
+                    },
+                    {
+                        "subHeading": "Insulation",
+                        "description": "Inline filter process and magnetic separator helps to eliminate contaminants common to fluidized bed systems",
+                        "details": []
+                    },
+                    {
+                        "subHeading": "Ground",
+                        "description": "Optional isolated ground is especially useful in applications where a clean ground is needed",
+                        "details": []
+                    },
+                    {
+                        "subHeading": "Joint stack",
+                        "description": "Joint stacks feature a single bolt design and a special, torque indicating, double headed break-off bolt",
+                        "details": []
+                    }
+                ]
+            }
+        ],
+        "speedFax": null,
+        "hasParent": true,
+        "parentName": "Busway Systems",
+        "productSelector": "",
+        "parentRoute": "busway-systems",
+        "pageInW3": "Sentron Busway"
+    },
+    {
+        "webGlModel": "Power Panels",
+        "route": "lighting-panels",
+        "heading": "Lighting Panels",
+        "headline": "New generation of Lighting Panel products that represents the high level of engineering innovation",
+        "introDescription": "With flexibility and strength added to the existing rugged and durable panelboard family Siemens panelboards are extremely easy to install. These newer designs also simplify wiring and reduce material requirements saving additional installation time. Siemens also offers unassembled panelboards which are designed to meet shorter lead time requirements, provide product flexibility, and affordable pricing.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection and Application Guide: Panelboards",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU docs/SIE_SA_PanelboardsP1-P5.pdf"
+                },
+                {
+                    "name": "Selection and Application Guide: P1 Panelboards",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU docs/SIE_SA_P1QUI.pdf"
+                },
+                {
+                    "name": "P1 Panelboards: FAQ",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_FL_P1_FAQ.pdf"
+                },
+                {
+                    "name": "P1 Panelboards: Data Sheet",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_FL_P1REV.pdf"
+                },
+                {
+                    "name": "P3 Lighting Panels",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/ElectricalApparatus/Panelboards/docs_Assembled%20Panelboard/SIE_FL_3VA52_P3_LightingPanels.pdf"
+                },
+                {
+                    "name": "Instructions for Installation, Operation, Maintenence",
+                    "url": "https://www.nema.org/Standards/Pages/General-Instructions-for-Proper-Installation-Operation-and-Maintenance-of-Panelboards-Rated-600-V-or-Less.aspx"
+                },
+                {
+                    "name": "Simple Projects Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_BR_ReferenceGuideSmallProjects.pdf"
+                },
+                {
+                    "name": "Siesmic Compliance Review",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_FL_LVSeismicReview.pdf"
+                },
+                {
+                    "name": "Box Installation For Seismic-Rated Panelboards",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/ElectricalApparatus/Panelboards/docs_Assembled%20Panelboard/SIE_IS_SeismicPanelboard.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Lighting Panels.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            "Field convertible kits through 400A",
+                            "Lay-in construction and or removable lugs make wiring easier",
+                            "Panel can be inverted in the field and keep its labeling legible",
+                            "Field addable sub-fed breakers or Feed-Thru lug kits can be field installed",
+                            "Unassembled offering is an exact match to Siemens factory built panelboards to provide the same look, quality, and utilize the same components"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-11-ALL-web.pdf",
+        "hasParent": true,
+        "extraTabs": "assets/json/PPAccessories.json",
+        "parentName": "Panelboards",
+        "productSelector": "",
+        "parentRoute": "panelboards",
+        "pageInW3": "Lighting Panels"
+    },
+    {
+        "webGlModel": "Power Panels",
+        "route": "fusible-panels",
+        "heading": "Fusible Panels",
+        "headline": "Flexibility and increased safety with fusible panels",
+        "introDescription": "The Siemens Coordination Panel provides fusible solutions that make it simple and cost effective to selectively coordinate a fused electrical distribution system. It is especially designed to address the NEC Selective Coordination Requirements. Selective coordination is a highly desirable design consideration as selectively coordinated overcurrent protective devices help avoid unnecessary blackouts that negatively affect business assets and productivity.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection and Application Guide: Coordination Panelboards",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/348050/SIE_SA_30A-400AFusiblePanelboards.pdf"
+                },
+                {
+                    "name": "Selection and Application Guide: Revised P1 Panelboards",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_SA_P1QUI.pdf"
+                },
+                {
+                    "name": "Revised P1 Panelboards: FAQ",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_FL_P1_FAQ.pdf"
+                },
+                {
+                    "name": "The Siemens Advantage",
+                    "url": "https://cmsadv1.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_BR_SiemensAdvantage_RevisedP1UPB.pdf"
+                },
+                {
+                    "name": "Fast Facts: Unassembled Panelboards",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_FL_UPB_FastFacts.pdf"
+                },
+                {
+                    "name": "Simple Projects Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_FL_UPB.pdf"
+                },
+                {
+                    "name": "Siesmic Compliance Review",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_FL_UPB_QuickReference.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/family/SIE_PH_FusibleUPB_Representative.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            "The SQSCP is especially designed to address the NEC ® Selective Coordination Requirements for Emergency Legally Required Standby Healthcare Essential Electrical and Critical Operation Power Systems (COPS) per NEC ® 700.28 701.27 645.27 and 708.54.",
+                            "Flexibility: Field addable sub-fed breakers (up to 250 amps) or feed through lug kits can be field installed without utilizing any of your feeder breaker positions or increasing your box height.",
+                            "Time efficiency: Spare fuse compartment keeps replacements right at hand. ",
+                            "Increased safety: Finger-safe cube fuses base features a fuse interlock to prevent removing fuse while energized. Optional Surge Protection Device (SPD) can be added as a factory-installed option."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": null,
+        "hasParent": true,
+        "parentName": "Panelboards",
+        "productSelector": "",
+        "parentRoute": "panelboards",
+        "pageInW3": "Fusible Panels"
+    },
+    {
+        "webGlModel": "Power Panels",
+        "route": "power-panels",
+        "heading": "Power Panels",
+        "headline": "Rugged yet flexible innovative system for your application",
+        "introDescription": "Siemens Power Panels are ideal for downstream distribution or service entrance equipment in an electrical system. The P4 and P5 Panels offer a wide array of factory-assembled options and have the ability to mix breaker frames in their respective unit space.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection and Application Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/PBCS-20301-04074M0407CPPanelboardsS_AGuidefinal.pdf"
+                },
+                {
+                    "name": "Siesmic Compliance Review",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_LVSeismicReviewPanelboards.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Power Panels.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            "600 Vac, 500 Vdc maximum",
+                            "1200 amp main circuit breaker or main lugs only maximum",
+                            "20 amps through 1200 amp branch circuit breakers",
+                            "Temperature rated or density rated aluminum or copper bus",
+                            "Fully rated and series rated systems",
+                            "Bus connected surge protective devices",
+                            "Integrated ACCESS power monitoring",
+                            "Symmetrical design does not require unique mountings for top and bottom feed"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": null,
+        "hasParent": true,
+        "parentName": "Panelboards",
+        "productSelector": "",
+        "parentRoute": "panelboards",
+        "pageInW3": "Power Panels"
+    },
+    {
+        "webGlModel": "Power Panels",
+        "route": "upb",
+        "heading": "UPB",
+        "headline": "Siemens current generation of lighting panel products represent the highest level of engineering innovation and features",
+        "introDescription": "Siemens family of lighting panelboards have always been rugged and durable.  With new innovative features and Breaker types being introduced, the P1-P2-P3 family of factory assembled lighting panels are even more flexible and easier to install. These newer designs also simplify wiring and reduce material requirements, saving additional installation time. Siemens also offers P1 unassembled lighting panels (UPB program), through our authorized distributors, which are designed to meet shorter lead time requirements, provide product flexibility and affordable pricing.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection and Application Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/PBCS-20301-04074M0407CPPanelboardsS_AGuidefinal.pdf"
+                },
+                {
+                    "name": "Siesmic Compliance Review",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_LVSeismicReviewPanelboards.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/UPB.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": "The Siemens P1 UPB program (Unassembled Panelboard Program) is for Authorized Siemens UPB distributors only. ",
+                        "details": [
+                            "P1 UPB lighting panels are available in 250A and 400A max. configurations.",
+                            "BL/BQD branch breakers are available from 15A to 100A",
+                            "xGB branch breakers are available from 15A to 125A",
+                            "SPD devices can be ordered for field installation in subfeed space.",
+                            "P1 UPB panels have all the same field installable kits available as for factory assembled but are limited in circuits and only available for the most popular system voltages.",
+                            "P1 250A UPB circuits: 18, 30, 42 and 54 only. (no 66 cir.)",
+                            "P1 400A UPB circuits: 30, 42 and 54 only. (no 66 cir.)"
+                        ]
+                    },
+                    {
+                        "subHeading": "All UPB Panels include subfeed space (all are FT, no NFT)",
+                        "description": "Limited system voltages available:",
+                        "details": [
+                            " X = 208Y/120, 3-phase 4-wire (BL/BQD type breakers only)",
+                            " A = 120/240V, 1-phase 3-wire (BL/BQD type breakers only)",
+                            " E = 480Y/277V, 3-phase 4-wire (BL/BQD type breakers only)",
+                            " 7 = 480Y/277V, 3-phase 4-wire (xGB type breakers only)",
+                            " >> BL/BQD type or GB type of breakers cannot be mixed in the same panel."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": null,
+        "hasParent": true,
+        "parentName": "Panelboards",
+        "productSelector": "",
+        "parentRoute": "panelboards",
+        "pageInW3": "UPB"
+    },
+    {
+        "webGlModel": "Talon Meter",
+        "route": "talon",
+        "heading": "Talon Meter Mounting Equipment",
+        "headline": "Market leader in innovation and value for the meter socket industry",
+        "introDescription": " From our award-winning lever bypass products to proprietary K base products to innovative temporary power design, Talon is the long-term solution partner for your metering needs.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection and Application Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/TAL_SA_TempPowerPanel.pdf"
+                },
+                {
+                    "name": "Residential and Commercial Utility Applications",
+                    "url": "https://www.industry.usa.siemens.com/topics/us/en/talonmetering/literature/Documents/TAL_SA_ResiGuide.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Talon Meter Mounting Equipment.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Product Details",
+                        "description": "Talon offers single position metering, temporary power panels, PAK metering, enclosed receptables, AC disconnets,  CT cabonets, transformer rated, and meter combo & mains.",
+                        "details": []
+                    }
+                ]
+            }
+        ],
+        "extraTabs": "assets/json/talonTabs.json",
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-02-ALL-web.pdf",
+        "hasParent": false,
+        "parentName": "Single-Family Metering",
+        "productSelector": "talon",
+        "parentRoute": "single-family-metering",
+        "pageInW3": "Talon Meter Mounting Equipment"
+    },
+    {
+        "webGlModel": null,
+        "route": "sem3-meters",
+        "heading": "SEM3 Branch Circuit Meters and Accessories",
+        "headline": "Modular metering solutions for energy monitoring, data analysis, and sub billing applications.",
+        "introDescription": "The Embedded Micro Metering Module (SEM3) is a modular metering solution for energy monitoring, data analysis, and sub billing applications.  The SEM3 is pre-engineered to integrate into Siemens Panelboards, Switchboards, PDU, RPP, and Bus Plugs but is also offered for retrofit applications.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Quick Install Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/SEM3/SIE_FL16_SEM3QuickRefGuide.pdf"
+                },
+                {
+                    "name": "SEM3 Data Sheet",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/SEM3/SIE_DS_DataSheet.pdf"
+                },
+                {
+                    "name": "SEM3 User Manual",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/SEM3/SIE_XR_SEM3ReplacementPartsGuide.pdf"
+                },
+                {
+                    "name": "SEM3 BACnet User Manual",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/SEM3/SIE_FL16_SEM3QuickRefGuide.pdf"
+                },
+                {
+                    "name": "Sentron 3/6 Bus Plug with Metering Literature",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/SEM3/SIE_DS_DataSheet.pdf"
+                },
+                {
+                    "name": "What's New in Bus Plug 3/6 with Metering",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/SEM3/SIE_XR_SEM3ReplacementPartsGuide.pdf"
+                },
+                {
+                    "name": "Spit Core Current Transformers Datasheet",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/SEM3/SIE_FL16_SEM3QuickRefGuide.pdf"
+                },
+                {
+                    "name": "SEM3 Solutions Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/SEM3/SIE_DS_DataSheet.pdf"
+                },
+                {
+                    "name": "SEM3 Selection and Application Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/SEM3/SIE_XR_SEM3ReplacementPartsGuide.pdf"
+                },
+                {
+                    "name": "SEM3 User Manual",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/SEM3/SIE_IM_SEM3_User_Manual.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/SEM3 Branch Circuit Meters & Accessories.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Controller",
+                        "description": null,
+                        "details": [
+                            "Converts single meter modules into 1, 2 and 3 phase meters",
+                            "Provides a single Modbus slave address for entire panel",
+                            "Supplies Class signals to Meter Modules representing A, B, C and N voltage levels"
+                        ]
+                    },
+                    {
+                        "subHeading": "Solid Core Current Transformers (CTs)",
+                        "description": null,
+                        "details": [
+                            "CTs range from 50-1200A",
+                            "100 mA output CTs",
+                            "Can measure accurately down to 1% of maximum amperage range",
+                            "Lead wires are 18AWG, Stranded 16/30",
+                            "Primary Rating: 600VAC, CAT IV",
+                            "UL 2808 rated"
+                        ]
+                    },
+                    {
+                        "subHeading": "Split Core Current Transformers (CTs)",
+                        "description": null,
+                        "details": [
+                            "CTs range from 50-1200A",
+                            "100 mA output CTs",
+                            "Rated for use on non-insulated conductors",
+                            "Lead wires are 18AWG, UL 1015, 600V, Stranded 16/30",
+                            "Primary Rating: 600VAC , CAT 1V",
+                            "UL 2808 rated"
+                        ]
+                    },
+                    {
+                        "subHeading": "Communications",
+                        "description": null,
+                        "details": [
+                            "Modbus RTU and TCP",
+                            "SMTP, SNMP, and NTP",
+                            "2 Digital Pulse Inputs",
+                            "One Total Energy Pulse Output",
+                            "Optional  up to 44 Digital Pulse inputs for monitoring Water & Gas",
+                            "Optional BacNet protocol support"
+                        ]
+                    },
+                    {
+                        "subHeading": "Meter Module",
+                        "description": null,
+                        "details": [
+                            "Available as either High Accuracy (0.2%) or Standard Accuracy (1%)",
+                            "Up to ANSI C12.20/0.2",
+                            "(C12.20 Class 0.2)",
+                            "Standalone Design, Single Phase Meter",
+                            "Modbus RTU communications to the controller"
+                        ]
+                    },
+                    {
+                        "subHeading": "Meter Racks",
+                        "description": null,
+                        "details": [
+                            "Available for 3, 6, 9, 15 and 21 metered branches per side",
+                            "Addresses for Meter Module to Controller communications are hard coded into Meter Racks",
+                            "9, 15 and 21 Meter Racks have easy dip switch for fast configuration",
+                            "3, 6 Meter Rack has a rotary switch for multiple ranges; can be daisy chained to other Meter Racks"
+                        ]
+                    },
+                    {
+                        "subHeading": "The SEM3 system is made up of the following components and options:",
+                        "description": null,
+                        "details": [
+                            "Controller – The controller is used to communicate the metered values to outside systems by way of a web page interface, Modbus RTU or Modbus TCP. One controller can manage up to 45 meter modules. The controller also has the system digital inputs for receiving pulse inputs from other metering devices as well as a digital output for the combined KWh output of the system being metered.",
+                            "Meter Modules – There are two choices for the meter modules that are differentiated by accuracy specification. The accuracies are 1% for the standard accuracy modules and 0.2% for the high accuracy modules. The accuracy is tested in accordance to ANSI C12.20/0.2.",
+                            "Meter Racks – The meter modules are designed to snap into the rack assemblies. The rack assemblies are sized by how many modules will fit into each and come in 3, 9, 15 and 21 module configurations.",
+                            "CTs or Current Transformers – The SEM3 systems has solid core CTs and split core CT's for use with the system in the following maximum amperage ranges 50, 125, 250, 400, 600, 800 and 1200 amps. These are maximum amperage ranges for normal usage but will measure accurately down to 1% of the maximum range.",
+                            "Communication cables – The communication cables are designed like CAT 5 cables but are insulated for use in systems up to 600 volts. The cables are for two way communication from the controller to the rack/meter modules."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-09-ALL-web.pdf",
+        "hasParent": false,
+        "parentName": "Digital Power Monitoring",
+        "productSelector": "",
+        "parentRoute": "digital-power-monitoring",
+        "pageInW3": "SEM3 Branch Circuit Meters & Accessories"
+    },
+    {
+        "webGlModel": null,
+        "route": "power-quality-meters",
+        "heading": "Power/Power Quality Meters and Accessories",
+        "headline": "Power and Power quality metering solutions for critical power environments as well as basic metering and energy monitoring.",
+        "introDescription": "Power Quality meters are suited to local and remote monitoring of electrical installations with the capability to analyze and isolate the source of power quality problems. The powerful compact power monitoring meter (PAC3100, PAC3200, PAC4200) may be used as a stand alone device monitory over 25/50/200 parameters or as part of an industrial control, building automation or global power monitoring system.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "9510 / 9610 Comm Card",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/9510_9610_Comm_Card.pdf"
+                },
+                {
+                    "name": "9510 Hardware Lockable Meter",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/9510_9610_Hardware_Lockable_Meter.pdf"
+                },
+                {
+                    "name": "9510 I/O Card",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/9510_9610_IO_Card.pdf"
+                },
+                {
+                    "name": "9510 Terminal Strip Covers",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/9510_9610_Terminal_Strip_Covers.pdf"
+                },
+                {
+                    "name": "9510 TRAN Meter Mounting Instruction",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/9510_9610_TRAN.pdf"
+                },
+                {
+                    "name": "9510 User Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/9510_9610_User_Guide.pdf"
+                },
+                {
+                    "name": "Siemens Ferrite Install Instructions",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/Siemens_Ferrite_Install_Instructions.pdf"
+                },
+                {
+                    "name": "Siemens Modbus and ION Technology",
+                    "url": " https://digitalcontentcenter.compas.siemens-info.com/Siemens_Modbus_and_ION_Technology.pdf"
+                },
+                {
+                    "name": "9510/9610 Product Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/PMBR-04000-0211lo-res.pdf"
+                }
+            ]
+        },
+        "imageLink": "https://digitalcontentcenter.compas.siemens-info.com/Power_Meters.jpg",
+        "products": [
+            {
+                "name": "9810",
+                "description": "High accuracy advanced power quality and analysis meter",
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/9770969/SIE_PH_PowerMeter_9810.jpg",
+                "productDetails": null,
+                "productliteratureLink": [
+                    {
+                        "name": "9810 User Manual",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_UM_SIEMENS_9810_UserManual.pdf"
+                    },
+                    {
+                        "name": "9810 RC (Remote Display) Installation Sheet",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IS_9810RC_Installation_Sheet.pdf"
+                    },
+                    {
+                        "name": "9810 TC Tran (DIN Rail) Install Sheet",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IS_9810TC_Installation_Sheet.pdf"
+                    },
+                    {
+                        "name": "9810 Input/output Module Install Sheet",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IS_948M2_OptMod_IS.pdf"
+                    },
+                    {
+                        "name": "9810 Adapter Plate Install Sheet",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IS_9x10-9810_Adapter_Plate_Install_Sheet.pdf"
+                    },
+                    {
+                        "name": "9810 Meter Modbus Register Maps",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IS_9810_Framework_Module_Counts.pdf"
+                    },
+                    {
+                        "name": "9810 Meter Framework Module Counts Reference",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IS_9810_Framework_Module_Counts.pdf"
+                    },
+                    {
+                        "name": "9810 Selection and Application Guide",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_CM_9810_SA_Guide.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "PAC3100 Power Meter",
+                "description": null,
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/9770969/SIE_PH_PowerMeter_PAC3100.jpg",
+                "productDetails": null,
+                "productliteratureLink": [
+                    {
+                        "name": "Sentron PAC3100 Manual",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/sentron_pac3100_manual_en_01_en-US.pdf"
+                    },
+                    {
+                        "name": "Sentron PAC3100 Operating Instructions",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/sentron_pac3100_operating_instructions_021.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "PAC3200 Power Meter",
+                "description": null,
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/9770969/SIE_PH_PowerMeter_PAC3200.jpg",
+                "productDetails": null,
+                "productliteratureLink": [
+                    {
+                        "name": "Sentron PAC Modbus RTU Manual",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/sentron_pac_RS485-Modul_Manual_01_EN.pdf"
+                    },
+                    {
+                        "name": "Sentron PAC Modbus RTU Module Operating Instructions",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/sentron_RS485_operating_instructions_01.pdf"
+                    },
+                    {
+                        "name": "Sentron PAC Profibus DP Manual",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/sentron_dp_manual_en_02.pdf"
+                    },
+                    {
+                        "name": "Sentron PAC Profibus DP Operating Instructions",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/sentron_dp_operating_instructions_02.pdf"
+                    },
+                    {
+                        "name": "Sentron PAC3200 Manual",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SENTRON_pac3200_manual_ul_PSC_en.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "PAC4200 Power Meter",
+                "description": null,
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/9770969/SIE_PH_PowerMeter_PAC4200.jpg",
+                "productDetails": null,
+                "productliteratureLink": [
+                    {
+                        "name": "PAC Modbus RTU Module",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/sentron_pac_RS485-Modul_Manual_01_EN.pdf"
+                    },
+                    {
+                        "name": "PAC Profibus DP Manual",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/sentron_dp_manual_en_02.pdf"
+                    },
+                    {
+                        "name": "PAC Profibus DP Operating Manual",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/sentron_dp_operating_instructions_02.pdf"
+                    },
+                    {
+                        "name": "PAC4200 Manual",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/sentron_pac4200_manual.pdf"
+                    },
+                    {
+                        "name": "PAC4200 Operating Manual",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/sentron_pac4200_operating_instructions_01.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Firmware",
+                "description": null,
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/9770969/SIE_PH_PowerMeter_PAC4200.jpg",
+                "productDetails": null
+            },
+            {
+                "name": "MD Meter",
+                "description": null,
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/9770969/SIE_PH_MD_PowerMeter.jpg",
+                "productDetails": null,
+                "productliteratureLink": [
+                    {
+                        "name": "MD Meter User Manual",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/MD Meter/SIE_IM_LP_MD_Bacnet_Modbus_User_Manual2.pdf"
+                    },
+                    {
+                        "name": "Rogowski Flex Core CT Install Sheet",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/MD Meter/SIE_IS_Connecting_Rogowski_Coil_Flexible_Current_Transformer_to_a_Load_Final.pdf"
+                    },
+                    {
+                        "name": "MD Meter Specification Sheet",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/MD Meter/SIE_IS_LP_MD_Meter_Spec_Sheet.pdf"
+                    },
+                    {
+                        "name": "Hinged mini Split Core CT Install Sheet",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/MD Meter/SIE_IS_LP_Mini _Midi_Split_Core_CT_Instruction_Final.pdf"
+                    },
+                    {
+                        "name": "Hinged Mini Split Core CT Spec Sheet",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/MD Meter/SIE_IS_LP_Mini_Midi_Split_Core_CT_Spec_Sheet_Final.pdf"
+                    },
+                    {
+                        "name": "Rogowski Flex Core CT Spec Sheet",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/MD Meter/SIE_IS_LP_Rogo_Spec_Sheet_Final.pdf"
+                    },
+                    {
+                        "name": "Non Hinged SML Split Core CT Spec Sheet",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/MD Meter/SIE_IS_LP_SML_Split_Core_CT_Spec_Sheet_Final.pdf"
+                    },
+                    {
+                        "name": "Non Hinged SML Split Core CT Install Sheet",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/MD Meter/SIE_IS_LP_Split_Core_CT_Instruction_Final.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "9410 Meter",
+                "description": null,
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/9770969/SIE_PH_PowerMeter_9410.jpg",
+                "productDetails": null,
+                "productliteratureLink": [
+                    {
+                        "name": "9410 User Manual",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_UM_Siemens9410UserManual.pdf"
+                    },
+                    {
+                        "name": "9410 Remote Display Installation Sheet",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IS_948DISP96_RMD_Install-sheet.pdf"
+                    },
+                    {
+                        "name": "9410 Input/Output Module Installation Sheet",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IS_948M2_OptMod_IS.pdf"
+                    },
+                    {
+                        "name": "9410 Sealing Kit Installation Sheet",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IS_948M2_OptMod_IS.pdf"
+                    },
+                    {
+                        "name": "9410 Integrated Display Installation",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IS_9410DC_INT_Install_sheet.pdf"
+                    },
+                    {
+                        "name": "9410 Tran (DIN Rail) Install Sheet",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IS_9410TC_DIN_install-sheet.pdf"
+                    },
+                    {
+                        "name": "9410 Meter Modbus Register Maps",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/307701/SIE_IS_SIEMENS_9410_Modbus_Map.pdf"
+                    },
+                    {
+                        "name": "9410 Selection and Application Guide",
+                        "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_CM_9410_SA_Guide.pdf"
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-09-ALL-web.pdf",
+        "hasParent": false,
+        "parentName": "Digital Power Monitoring",
+        "productSelector": "",
+        "parentRoute": "digital-power-monitoring",
+        "pageInW3": "Power/Power Quality Meters & Accessories"
+    },
+    {
+        "webGlModel": null,
+        "route": "electrical-power-monitoring",
+        "heading": "Electrical Power Monitoring System (EPMS) Software",
+        "headline": "Energy Management Software solutions to process, analyze, store and share energy usage and status information.",
+        "introDescription": "Energy Power Monitoring Software offers control capabilites that can help reduce energy-related costs.  The WinPM.net solution offers comprehensive power quality and reliability analysis and allows you to manage intelligent metering and protective device.  While PowerManager, combined with Siemens power meters and low voltage protective devices allows you to measure as well as process, analyze, and store information.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Win.PM.Net 7.1 Required Software/Hardware",
+                    "url": " http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7_BeforeInstallingYourSoftware.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7.1 What's New",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IM_WinPM-Net7-1_UserGuide.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7.1 User Guide",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7-1_BeforeInstallingYourSoftware.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7.1 Before Installing Your Software",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7-1_BeforeInstallingYourSoftware.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7.1 Installation Guide",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IM_WinPM-Net7-1_InstallationGuide.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7.1 Using SQL Server 2016",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7-1_UsingSQLSrvr2016DVD.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7.1 Using SQL Server 2012",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7-1_UsingSQLSrvrDVD.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7.1 Hierarchy Manager",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7-1_HierarchyManager.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7.1 Siemens ION Reference Manual",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/SIE_IM_ION_Reference.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7.1 Editing Database Task Powershell Scripts",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_KB_Editing_Database_Task_Powershell_Scripts.pdf"
+                },
+                {
+                    "name": "Host WinPM.Net 7.1 over HTTP on a non-standard port (without SSL considerations)",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_KB_Host%20WinPM.Net%20over%20HTTP%20on%20a%20non%20standard%20port%20-%20no%20SSL.pdf"
+                },
+                {
+                    "name": "Host WinPM.Net 7.1 over HTTPS with SSL enabled and HTTP Disabled (most Secure)",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_KB_Host%20WinPM.Net%20over%20HTTPS%20with%20SSL%20enabled%20and%20HTTP%20Disabled_Most%20Secure.pdf"
+                },
+                {
+                    "name": "Win.PM.Net 7.0 Required Software/Hardware",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7_BeforeInstallingYourSoftware.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7 What's New",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7_WhatsNew.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7 User Guide",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IM_WinPM-Net7_User_Guide.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7 Before Installing Your Software",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7_BeforeInstallingYourSoftware.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7 Installation Guide",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7_Installation_Guide.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7 Using SQL Server 2014",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SMU_Datasheet.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7 Using SQL Server 2012",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7_UsingSQLSrvrDVD.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7 Siemens ION Reference Manual",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/SIE_IM_ION_Reference.pdf"
+                },
+                {
+                    "name": "WinPM.Net 7 Editing Database Task Powershell Scripts",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_KB_Editing_Database_Task_Powershell_Scripts.pdf"
+                },
+                {
+                    "name": "Host WinPM.Net 7 over HTTP on a non-standard port (without SSL considerations)",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_KB_Host%20WinPM.Net%20over%20HTTP%20on%20a%20non%20standard%20port%20-%20no%20SSL.pdf"
+                },
+                {
+                    "name": "Host WinPM.Net 7 over HTTPS with SSL enabled and HTTP Disabled (most Secure)",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_KB_Host%20WinPM.Net%20over%20HTTPS%20with%20SSL%20enabled%20and%20HTTP%20Disabled_Most%20Secure.pdf"
+                }
+            ]
+        },
+        "imageLink": null,
+        "products": [
+            {
+                "name": "Powermanager",
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            "Stand-alone or LAN/WAN based configuration",
+                            "Utilize any Ethernet or serial via gateway (Modbus only)",
+                            "fully scalable with regard to the connected devices and to the software’s function",
+                            "Designed to collect, archive, monitor, display and evaluate any kind of energy related device data"
+                        ]
+                    }
+                ],
+                "productliteratureLink": [
+                    {
+                        "name": "Powermanager User Manual",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IM_Powermanager_User_Manual.pdf"
+                    },
+                    {
+                        "name": "Powermanager Install Instructions",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_Powermanager_Install_Instructions.pdf"
+                    },
+                    {
+                        "name": "Powermanager Readme",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_KB_SEM3_Into_powermanager_AppNotes.pdf"
+                    },
+                    {
+                        "name": "Required Software",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7_BeforeInstallingYourSoftware.pdf"
+                    },
+                    {
+                        "name": "Adding SEM3 to Powermanager V3.4",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_KB_SEM3_Into_powermanager_AppNotes.pdf"
+                    },
+                    {
+                        "name": "Additional KB Articles",
+                        "url": "https://support.industry.siemens.com/cs/ww/en/ps/19789"
+                    },
+                    {
+                        "name": "Network Topology",
+                        "url": "https://cms3.siemens.com/powerdistribution/us/en/product-portfolio/power-monitoring/energy-management-software/powermanager/PublishingImages/Topology.jpg"
+                    },
+                    {
+                        "name": "Network Topology",
+                        "url": "https://cms3.siemens.com/powerdistribution/us/en/product-portfolio/power-monitoring/energy-management-software/powermanager/PublishingImages/Topology2_Multiple_powermanager.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "WinPM.NET (version 8.x)",
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            "Compliant with IEC62443 cyber security standards",
+                            "Pinpoints the sources of transients, harmonics, or sags, whether external or internal to your facility",
+                            "Smart events and alarm clustering",
+                            "Supports Modbus RTU, Modbus TCP, ION, XML, SNMP, OPC, FTP, and PQDIF compliant system"
+                        ]
+                    }
+                ],
+                "productliteratureLink": [
+                    {
+                        "name": "Required Software/Hardware",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/Docs/SIE_IS_WinPM-Net7_BeforeInstallingYourSoftware.pdf"
+                    },
+                    {
+                        "name": "WinPM.Net 8 What's New",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/WinPM.Net_8.0/Technical_Data_Manuals/SIE_IS_WinPM-Net8_WhatsNew.pdf"
+                    },
+                    {
+                        "name": "WinPM.Net 8 User Guide",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/WinPM.Net_8.0/Technical_Data_Manuals/SIE_IM_WinPM-Net8_User_Guide.pdf"
+                    },
+                    {
+                        "name": "WinPM.Net 8 Installation Guide",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/WinPM.Net_8.0/Technical_Data_Manuals/SIE_IS_WinPM-Net8_Installation_Guide.pdf"
+                    },
+                    {
+                        "name": "WinPm.Net 8 Web Applications Guide",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/WinPM.Net_8.0/Technical_Data_Manuals/SIE_IS_WinPM-Net8_Web_Applications_Guide.pdf"
+                    },
+                    {
+                        "name": "How to enable .Net Framework 3.5 for WinPM.Net Instrall",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/WinPM.Net_8.0/KB_Documents/SIE_KB_WinPM-Net8_Enabling_.net_Framework.pdf"
+                    },
+                    {
+                        "name": "WinPM.Net 8.0 FAQ's",
+                        "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/ACCESS/ACCESS/docs_Products/WinPM.Net_8.0/KB_Documents/SIE_KB_WinPM-Net8_FAQ.pdf"
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/P_I202_XX_01372V.jpg",
+        "hasParent": false,
+        "parentName": "Digital Power Monitoring",
+        "productSelector": "",
+        "parentRoute": "digital-power-monitoring",
+        "pageInW3": "Electrical Power Monitoring System (EPMS) Software"
+    },
+    {
+        "webGlModel": null,
+        "route": "digital-solutions",
+        "heading": "Digital Solutions and Services",
+        "headline": "Power Distribution Solutions (PDS) Energy Management - Engineering Services can design a power quality and monitoring system for you.",
+        "introDescription": "A Siemens designed solution using WinPM.Net or Powermanager helping to analyze, identify and correct power issues before they become critical.  And,  coupled with high quality Siemens meters will result in a powerful tool.",
+        "literatureLink": [],
+        "imageLink": "assets/products/digital-services-mit-layer-original.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            "Integrate with any vendor’s equipment",
+                            "Integration of other utilities like gas, water, steam, air and more",
+                            "Third party hardware and software Integration",
+                            "On-site and remote hands-on system training"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-09-ALL-web.pdf",
+        "hasParent": false,
+        "parentName": "Digital Power Monitoring",
+        "productSelector": "",
+        "parentRoute": "digital-power-monitoring",
+        "pageInW3": "Digital Solutions and Services"
+    },
+    {
+        "webGlModel": null,
+        "route": "low-voltage-transformers",
+        "heading": "Low Voltage Transformers",
+        "headline": "Flexible converting of voltages for your application",
+        "introDescription": "While being a completely static electrical device, dry type Low Voltage Distribution Transformers are versatile to benefit your application. They convert alternating current from one voltage level to another to match the voltage supply to the electrical load. By increasing (step-up) or decreasing (step-down) voltages, the transformers versatile electrical distribution for general purpose, lighting and power loads in commercial and industrial applications.Since no vaults are required for installation, dry type transformers can be located right at the load to provide correct voltage for the application. This eliminates the need for long, costly, low voltage feeders.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Low Voltage Transformers with DOE 2016 updates",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_FL_DOE_Transformer_FAQ.pdf"
+                },
+                {
+                    "name": "DOE 2016 FAQ's",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_EABU%20docs/SIE_CA_Transformer_Speedfax_Supplement.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Low Voltage Transformers.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": null,
+                        "description": null,
+                        "details": [
+                            "Designed to ANSI and NEMA Standards",
+                            "Available in a wide variety of ratings ",
+                            "For general purpose, lighting and power loads in commercial and industrial applications ",
+                            "Dry type transformers air cooled by natural convection",
+                            "Meets the demands of AC and DC variable speed drives ",
+                            "Horsepower rating and voltage changes for motor drive systems",
+                            "Cores designed with reduced flux density for drive applications"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-08-ALL-web.pdf",
+        "hasParent": false,
+        "parentName": "",
+        "productSelector": "",
+        "parentRoute": "",
+        "pageInW3": "Low Voltage Transformers"
+    },
+    {
+        "webGlModel": null,
+        "route": "surge-protection",
+        "heading": "Surge Protection Devices",
+        "headline": "High quality surge protection for your custom application",
+        "introDescription": "Siemens is committed to providing high quality surge protective devices for application in residential, commercial, and industrial electrical systems. Our Transient Protection System (TPS) and FirstSurge families of surge protective devices ensure the highest possible electrical system safety, protection, and reliability, while delivering some of the industry's best performance ratings.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "TPS3 01",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_01.pdf"
+                },
+                {
+                    "name": "TPS3 06",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_06.pdf"
+                },
+                {
+                    "name": "TPS3 05",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_05.pdf"
+                },
+                {
+                    "name": "TPS3 L5",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_L5.pdf"
+                },
+                {
+                    "name": "TPS3 02",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_02.pdf"
+                },
+                {
+                    "name": "TPS3 L6",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_L6.pdf"
+                },
+                {
+                    "name": "TPS3 L2",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_L2.pdf"
+                },
+                {
+                    "name": "TPS3 L1",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_L1.pdf"
+                },
+                {
+                    "name": "TPS3 01",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_01.pdf"
+                },
+                {
+                    "name": "TPS3 15",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_15.pdf"
+                },
+                {
+                    "name": "TPS3 L15",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_L15.pdf"
+                },
+                {
+                    "name": "TPS3 L12",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_L12.pdf"
+                },
+                {
+                    "name": "TPS3 03",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_03.pdf"
+                },
+                {
+                    "name": "TPS3 09",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_09.pdf"
+                },
+                {
+                    "name": "TPS3 11",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_11.pdf"
+                },
+                {
+                    "name": "TPS3 03 DC",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_FL_SurgeProtection_TPS3_03_DC.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Surge Protection Devices.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "FirstSurgeTM Feature and Benefits",
+                        "description": "Siemens FirstSurge™ stops power surges from entering your electrical system protecting smart appliances, TVs, computers, heating and cooling systems and more. Every FirstSurge™ includes commercial class notifiers (LEDs, Audible Alarm, and Red Flashing LED) and supplemental GRM Diagnostics.",
+                        "details": [
+                            "UL 1449 Listed, Type 2, Surge Protective Device (SPD)",
+                            "Rated for 120/240 split phase panels up to 400A",
+                            "Surge Current Capacities: 60,000 A,  100,000 A, 140,000 A",
+                            "3-stage commercial grade notification",
+                            "Ground Reference Monitoring (GRM)",
+                            "Installs onto any brand load center",
+                            "Type 4 rated outdoor enclosure",
+                            "10-year product and connected equipment warranty"
+                        ]
+                    },
+                    {
+                        "subHeading": "Residential Surge Protection - FirstSurge",
+                        "description": "Our FirstSurge line of residential surge products offers commercial class protection for the whole house. When a replacement becomes necessary, FirstSurge is equipped with 3-stage diagnostics to properly notify homeowners. The balanced protection and robustness of our FirstSurge units provide assurance to homeowners that their modern homes and appliances are fully protected. Siemens' FirstSurge devices are designed to stop surges before they enter in order to prevent that damage from happening and protect the whole house.",
+                        "details": []
+                    },
+                    {
+                        "subHeading": "Internal and External Surge Protection",
+                        "description": "Siemens' line of factory installed internal and external TPS3 SPDs (switchgear, switchboards, panelboards, MCCs, busway and more) consistently assures optimal performance through direct bus bar connections or minimal cable connections. This translates to some of the industry's best installed voltage protection ratings (VPRs) and surge current capacities ranging from 100kA to 1000kA.",
+                        "details": []
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-10-ALL-web.pdf",
+        "hasParent": true,
+        "parentName": "",
+        "productSelector": "",
+        "parentRoute": "",
+        "pageInW3": "Surge Protection Devices"
+    },
+    {
+        "webGlModel": null,
+        "route": "afci-gfci-residential-breakers",
+        "heading": "Residential Circuit Breakers",
+        "headline": "Protecting your home's electrical system",
+        "introDescription": "Siemens offers a wide array of thermal-magnetic circuit breakers that are the key element for overload and short-circuit protection of your home’s electrical system. To provide additional protection Siemens offers circuit breakers to protect against severe electrical shock or electrocution, mitigate the risk of electrical fires, and protect against damaging surges and voltage spikes.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "1 & 2 Pole Combination Type Arc-Fault Circuit Interrupters",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_DS_CAFCI2.pdf"
+                },
+                {
+                    "name": "Installation Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_IS_2poleComboAFCI.pdf"
+                },
+                {
+                    "name": "Troubleshooting Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_WP_CAFCITroubleshooting.pdf"
+                },
+                {
+                    "name": "Dual Function AFCI/GFCI Circuit Breaker ",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_SS_Dualfunction.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Residential Circuit Breakers.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Features",
+                        "description": null,
+                        "details": [
+                            "Industry exclusive LED indicators (Residential Arc Fault Circuit Interrupting breakers)",
+                            "Residential Ground Fault Circuit Interrupting breakers - Resists false tripping (shielded to prevent RF interference)",
+                            "Residential Surge Protection Circuit breakers - Easy to install and perfect for retrofit",
+                            "Residential Dual-Function Circuit breakers - Cost and installation time savings in one device",
+                            "All residential circuit breakers - Insta-Wire feature"
+                        ]
+                    },
+                    {
+                        "subHeading": "Technical data (varies per breaker type)",
+                        "description": null,
+                        "details": [
+                            {
+                                "key": "Amperage",
+                                "value": "15-225 Amp"
+                            },
+                            {
+                                "key": "Number of poles",
+                                "value": "1-3"
+                            },
+                            {
+                                "key": "Interrupting Rating",
+                                "value": "10000 AIC, 22000 AIC, 65000 AIC"
+                            },
+                            {
+                                "key": "Wire Range",
+                                "value": "varies per breaker ampacity"
+                            },
+                            {
+                                "key": "Voltage",
+                                "value": "120-240 VAC"
+                            },
+                            {
+                                "key": "Torque Rating",
+                                "value": "varies per breaker type"
+                            },
+                            {
+                                "key": "Listings",
+                                "value": "UL Listed, most CSA Certified"
+                            },
+                            {
+                                "key": "UL Listed CCN",
+                                "value": "DIYG"
+                            },
+                            {
+                                "key": "Ratings",
+                                "value": " HACR, SWD"
+                            }
+                        ]
+                    },
+                    {
+                        "subHeading": "Applications",
+                        "description": null,
+                        "details": [
+                            "Residential constuction",
+                            "Metering"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-01-ALL-web.pdf",
+        "hasParent": false,
+        "parentName": "",
+        "productSelector": "",
+        "parentRoute": "",
+        "pageInW3": "Residential AFCI Circuit Breakers Residential GFCI Circuit Breakers Residential Dual-Function Circuit Breakers (AFCI & GFCI) Residential Main Breakers Surge Protection Breakers Residential Thermal Mag Circuit Breakers"
+    },
+    {
+        "webGlModel": "Load Centers",
+        "route": "residential-load-centers",
+        "heading": "Residential Load Centers",
+        "headline": "Highest quality and the most complete offering on the market",
+        "introDescription": "Siemens has a high quality and feature-rich line of Single Phase, 3-Phase, Specialty and Temporary Power Load Center products to meet applications for virtually every need. Siemens custom built load centers provide maximum flexibility in combination with labor saving features to aid the contractor while installing the product. Featuring the patented Insta-wire neutral/ground system, convertibility, copper bussing, and mounting tabs on the trim - all features that were specifically engineered by Siemens to decrease installation time & increase flexibility.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Selection & Application Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_SA_ESPL_Sel_App_Guide.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Residential Load Centers.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Product details",
+                        "description": null,
+                        "details": [
+                            {
+                                "key": "Enclosures",
+                                "value": "NEMA 1 or 3R"
+                            },
+                            {
+                                "key": "Combination Surface or Flush Trim or Surface only Trim",
+                                "value": "all included with every load center"
+                            },
+                            {
+                                "key": "Interiors Spaces",
+                                "value": "12-54, 20 to 40"
+                            },
+                            {
+                                "key": "Circuits",
+                                "value": "12-80"
+                            },
+                            {
+                                "key": "Amperage Rating",
+                                "value": "100-225, 1-phase and 3-phase"
+                            },
+                            {
+                                "key": "Features",
+                                "value": "Copper bussing available, Main Lug and Main Breaker"
+                            },
+                            {
+                                "key": "Branch Breakers",
+                                "value": "Type QP, QT, QAF, QPF, QE, QN, QNR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": "https://digitalcontentcenter.compas.siemens-info.com/SF-17-Sect-01-ALL-web.pdf",
+        "hasParent": false,
+        "parentName": "",
+        "productSelector": "lc",
+        "parentRoute": "",
+        "pageInW3": "Single Phase Load Centers 3-Phase Load Centers Specialty Load Centers, Structured Wiring, Temporary Power"
+    },
+    {
+        "webGlModel": null,
+        "route": "control-circuit-components",
+        "heading": "Control Circuit Components",
+        "headline": "Additional protection with a branch circuit protection device",
+        "introDescription": "Siemens circuit protection devices are engineered to allow for easy deployment, quick installation and secure protection of industrial devices from excessive current flow. Siemens low voltage circuit protection devices such as miniature circuit breakers, supplementary protectors, and fuse holders, range in performance and style to meet wide-ranging needs.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "5SJ4 Miniature Circuit Breaker Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_CA_5SJ4-ALL.pdf"
+                },
+                {
+                    "name": "5SY and 5SP Supplementary Protection Product Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_CA_SupplementaryALL.pdf"
+                },
+                {
+                    "name": "3NW7 Cylindrical Fuse Holder Product Guide",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/IECCircuitProtection/docs_HeavyDutySafetySwitches/SIE_CA_Fuses-TechData.pdf"
+                },
+                {
+                    "name": "3NC10 Open Cylindrical Fuse Holders",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_CA_Fuses-3NC1038.pdf"
+                },
+                {
+                    "name": "3NW7 Cylindrical Fuse Holder Selection Guide",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/SIE_CA_Fuses-3NW7.pdf"
+                },
+                {
+                    "name": "3NW7 Cylindrical Fuse Holder Product Guide ",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/CircuitProtection/IECCircuitProtection/docs_HeavyDutySafetySwitches/SIE_CA_Fuses-Drawings.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Control Circuit Components.jpg",
+        "products": [
+            {
+                "name": "Miniature Circuit Breakers IEC",
+                "description": "Suitable for Reverse Feed Connections, miniature circuit breakers IEC feature touch protection to EN 50274, visible indicator for ON and OFF/trip, and DIN rail mounting (35 mm). Smaller Size than traditional MCCBs, breakers include provide identical wire screw connections on line and load sides. The product line is available with a range of busbar & busbar accesories (UL recognized to file E321559).",
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/1551460/662643168099_R01_C05.jpg",
+                "productDetails": [
+                    {
+                        "subHeading": "Technical Information",
+                        "description": null,
+                        "details": [
+                            "5SJ41..-.HG40",
+                            "240 VAC, 120 VAC, 60 VDC",
+                            "1-Pole"
+                        ]
+                    },
+                    {
+                        "subHeading": "Trip Characteristics B, C & D (EN 60 898, UL 1077)",
+                        "description": null,
+                        "details": [
+                            "6 to 63 A (B Trip Characteristics)",
+                            "0.3 to 63 A (C & D Trip Characteristics)",
+                            "Same Polarity Connections Only",
+                            "5SJ4...-.HG41",
+                            "240 VAC,  120 VAC",
+                            "60 VDC (1-Pole), 125 VDC (2- & 3-Poles)",
+                            "1-, 2- & 3-Pole"
+                        ]
+                    },
+                    {
+                        "subHeading": "Trip Characteristics C & D (EN 60 898, UL 1077)",
+                        "description": null,
+                        "details": [
+                            "0.3 to 63 A (C & D Trip Characteristics)",
+                            "5SJ4...-.HG42",
+                            "480Y / 277 VAC",
+                            "5SJ4...-.HG41",
+                            "60 VDC (1-Pole), 125 VDC (2- & 3-Pole)",
+                            "60 VDC (1-Pole), 125 VDC (2- & 3-Poles)",
+                            "1-, 2- & 3-Pole"
+                        ]
+                    },
+                    {
+                        "subHeading": "Trip Characteristics C & D (EN 60 898, UL 1077)",
+                        "description": null,
+                        "details": [
+                            "0.3 to 40 A (C Trip Characteristic)",
+                            "0.3 to 32 A (D Trip Characteristic)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Terminal Blocks",
+                "description": "Siemens terminal blocks with Screw, Spring Loaded and Insulation Displacement Connections meet or exceed the requirements of CSA, IEC, NEMA, UL, VDE and other international Standards.",
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/P_I201_XX_06689P.png",
+                "productDetails": []
+            },
+            {
+                "name": "Supplementary Protectors",
+                "description": "Designed to provide additional protection along with a branch circuit pretection device, supplementary protectors are easy to install with no tool required for mounting or discmounting, have high ranked breaking capacity of up to 14,000A, and include identical terminals at both sides for an optional infeed from the top or the bottom.",
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/887621575724_R01_C04.jpg",
+                "productDetails": [
+                    {
+                        "subHeading": "Tripping characteristic",
+                        "description": "Supplementary protectors are equipped with a delayed overload/time-dependent thermal release (thermal bimetal) for low overcurrents and with an instantaneous electromagnetic release for high overload and short-circuit currents.  The thermal trip point on all versions is 1.13 to 1.45 times the supplementary protector rating.",
+                        "details": [
+                            {
+                                "key": "Tripping characteristic A, -5",
+                                "value": "To protect very sensitive circuits such as semiconductors. Magnetic trip point - 2 to 3 times supplementary protector rating."
+                            },
+                            {
+                                "key": "Tripping characteristic B, -6",
+                                "value": "For European residential circuit protection.  Also for protection of computers and electronic equipment. Magnetic trip point. - 3 to 5 times supplementary protector rating."
+                            },
+                            {
+                                "key": "Tripping characteristic C, -7",
+                                "value": "For general device protection in control circuits and all other supplementary circuit protection systems. Magnetic trip point - 5 to10 times supplementary protector rating."
+                            },
+                            {
+                                "key": "Tripping characteristic D, -8",
+                                "value": "For protection of high inrush loads. Magnetic trip point - 10 to 20 times supplementary protector rating."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fuse and fuse holders",
+                "description": "Engineered for easy insertion and removal of cyndrical type fuses, all fuse holders are equipped with a fuse handle or draw mechanism. Standard features offer multi-pole configurations, standard 35 mnn (DIN rail mountings, finger sage design, and with/without blown fuse indicator. All fuse holders are equipped with either a fuse handle or draw mechanism for easy insertion and removal of cylindrical type fuses. During insertion and removal the fuses are isolated from the power/control circuit. Their compact size requires less space than typical open-type fuse holders and they mount directly onto standard 35 mm mounting rails. Fuse holders for 8mm x 32 mm, 10 mm x 38 mm fuses in the 1 + N draw design occupy the same mounting space as 1 pole designs. This unique design saves space when compared to the typical handle type fuse holder which requires two poles.",
+                "imageUrl": "https://digitalcontentcenter.compas.siemens-info.com/754554924885_V1_R01_C03.jpg",
+                "productDetails": []
+            }
+        ],
+        "speedFax": "https://www.industry.usa.siemens.com/automation/us/en/industrial-controls/products/pages/industrial-control-catalog.aspx",
+        "hasParent": false,
+        "parentName": "",
+        "productSelector": "",
+        "parentRoute": "",
+        "pageInW3": "Miniature Circuit Breakers IEC Terminal Blocks Supplementary Protectors Fuses and Fuse Holders"
+    },
+    {
+        "webGlModel": null,
+        "route": "medium-voltage-circuit-breakers",
+        "heading": "Medium-Voltage Circuit Breakers",
+        "headline": "Reliable technology, ease of operation and economy with Siemens medium-voltage circuit breakes",
+        "introDescription": "Be it energy supply corporations, industry or power stations, any owner or user of primary distribution systems for medium voltage puts high demands on the switchgear. These include reliable technology, ease of operation and economy. With our complete range of circuit breaker and switchgear systems for medium-voltage, Siemens sets the standards when it comes to reliable and efficient solutions for special requirements.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "GM-SG Power Module",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_MV/OEM/SIE_FL_GMSG-PowerModule.pdf"
+                },
+                {
+                    "name": "SION Vacuum Circuit-Breakers",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_MV/mvs/SIE_SA_IEC_SION.pdf"
+                },
+                {
+                    "name": "Instruction manual",
+                    "url": "http://w3.usa.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_MV/mvs/ANSI_MV_AIS_GMSG_IM_EN.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/assets/products/Prod_Family/Medium-Voltage Circuit Breakers.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Type GM-SGY Cell Parts Kits Up to 50 kA",
+                        "description": "Siemens offers the following type GM-SGY cell parts kits up to 50 kA [1-6]:",
+                        "details": [
+                            "A-1,200 A circuit breaker cell parts kit",
+                            "A-2,000 A circuit breaker cell parts kit",
+                            "A-3,000 A circuit breaker cell parts kit",
+                            "B-1,200 A circuit breaker cell parts kit",
+                            "B-2,000 A circuit breaker cell parts kit",
+                            "B-3,000 A circuit breaker cell parts kit",
+                            "C-VT tray cell parts kit",
+                            "D-CPT tray cell parts kit",
+                            "D-VT tray cell parts kit",
+                            "D-Fuse cell parts rollout tray cell parts kit",
+                            "E-VT tray cell parts kit",
+                            "F-Fuse cell rollout tray cell parts kit",
+                            "F-VT tray cell parts kit",
+                            "F-CPT tray cell parts kit"
+                        ]
+                    },
+                    {
+                        "subHeading": "Type GM-SGY Rollout Trays Without Transformers or Fuses",
+                        "description": "Siemens offers the following type GM-SGY rollout trays without transformer or fuses [1],[2]:",
+                        "details": [
+                            "F-5 kV 3Ø fuse rollout tray",
+                            "5 kV two VTs rollout tray",
+                            "5 kV three VTs rollout tray",
+                            "5 kVA CPT rollout tray for 5 kV fuses",
+                            "10 kVA/15 kVA CPT rollout tray for 5 kV fuses",
+                            "15 kV two VTs rollout tray",
+                            "15 kV three VTs rollout tray",
+                            "5 kVA CPT rollout tray for 15 kV fuses",
+                            "15 kVA CPT rollout tray for 15 kV fuses"
+                        ]
+                    },
+                    {
+                        "subHeading": "Type GMSG Circuit Breaker Ratings - Constant kA",
+                        "description": "Type GMSG circuit breaker ratings are in accordance with the following standards [3], [7], [8], [9]:",
+                        "details": [
+                            "ANSI/IEEE C37.04-1999 standard rating structure for AC high-voltage circuit breakers",
+                            "ANSI/IEEE C37.06-2009 AC high-voltage circuit breakers rated on asymmetrical current basis - preferred ratings and related required capabilities",
+                            "ANSI/IEEE C37.09-1999 standard test procedure for AC high-voltage circuit breakers rated on a symmetrical current basis",
+                            "ANSI/IEEE C37.010-1999 application guide for AC high-voltage circuit breakers rated on a symmetrical current basis."
+                        ]
+                    },
+                    {
+                        "subHeading": "Type GMSG Circuit Breaker Ratings - Historic Constant MVA",
+                        "description": "Type GMSG circuit breaker ratings are in accordance with the following standards [2,3,11,12,13,14]:",
+                        "details": [
+                            "ANSI/IEEE C37.04-1979 standard rating structure for AC high-voltage circuit breakers rated on a symmetrical current basis",
+                            "ANSI C37.06-1987 AC high-voltage circuit breakers rated on a symmetrical current basis - preferred ratings and related required capabilities",
+                            "ANSI/IEEE C37.09-1979 standard test procedure for AC high-voltage circuit breakers rated on a symmetrical current basis",
+                            "ANSI/IEEE C37.010-1979 application guide for AC high-voltage circuit breakers rated on a symmetrical current basis."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": null,
+        "hasParent": false,
+        "parentName": "",
+        "productSelector": "",
+        "parentRoute": "",
+        "pageInW3": "Medium-Voltage Circuit Breakers"
+    },
+    {
+        "webGlModel": null,
+        "route": "medium-voltage-motor-controllers",
+        "heading": "Medium-Voltage Motor Controllers",
+        "headline": "Siemens has provided medium-voltage controllers to users in the U.S., Canada, and around the world for construction, industrial, and utility projects for over 50 years.",
+        "introDescription": "The Siemens SIMOVAC™ medium-voltage non-arc-resistant and SIMOVAC-AR™ arc-resistant controllers have a modular design incorporating up to two 12SVC400 (400 A) controllers, housed in a freestanding sheet steel enclosure. Each controller is UL 347 class E2, equipped with three current-limiting fuses, a non-load-break isolating switch, and a fixed-mounted vacuum contactor (plug-in type optional for 12SVC400). The enclosure is designed for front access, allowing the equipment to be located with the rear of the equipment close to a non-combustible wall.Siemens Integrated Electric-Racking System (SIERS) is optionally available with type SIMOVAC non-arc-resistant and SIMOVAC-AR arc-resistant controllers.",
+        "literatureLink": {
+            "section1": [
+                {
+                    "name": "Flyer - SIMOVAC-AR arc-resistant motor controllers",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/84392/ANSI_MV_SIMOVAC-AR_Flyer_EN.pdf"
+                },
+                {
+                    "name": "Flyer - SIMOVAC-RVAT and SIMOVAC-RVAT-AR reduced-voltage, autotransformer controllers",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/84392/ANSI_MV_SIMOVAC_RVAT_Flyer_EN.pdf"
+                },
+                {
+                    "name": "Flyer - SIMOVAC-SSRVS non-arc-resistant and SIMOVAC-SSRVS-AR arc-resistant solid-state reduced-voltage controller",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/84392/ANSI_MV_SIMOVAC_SSRVS_Flyer_EN.pdf"
+                },
+                {
+                    "name": "Flyer - SIERS integrated electrical-racking system for controllers",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/84392/ANSI_MV_SIMOVAC_SIERS_Flyer_EN.pdf"
+                },
+                {
+                    "name": "Flyer - SIERS integrated electrical racking system family for medium-voltage air-insulated switchgear, medium-voltage motor controllers, and low-voltage motor control centers",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/84392/ANSI_MV_SIERS_Family_Flyer_EN.pdf"
+                },
+                {
+                    "name": "Flyer - Sm@rtGear portfolio - Revolutionary intelligent platform for configuration, control and automation",
+                    "url": "https://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_MV/mvs/PDFL-SMGPF-0817-Lo_Res.pdf"
+                },
+                {
+                    "name": "Flyer - Direct purchase program for OEM customers for motor controllers",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/84392/ANSI_MV_SIMOVAC_DPP_Flyer_EN.pdf"
+                },
+                {
+                    "name": "Brochure - SIMOVAC non-arc-resistant and SIMOVAC-AR arc-resistant medium-voltage controllers",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/348050/ANSI_MV_SIMOVAC_Brochure_EN.pdf"
+                },
+                {
+                    "name": "Brochure - Siemens intelligent sync transfer minimizes cost while maximizing performance",
+                    "url": "http://extranet.w3.siemens.com/us/internet-dms/btlv/PowerDistributionComm/PowerDistribution/docs_MV/mvc/SyncTransferBrochure_090717.pdf"
+                },
+                {
+                    "name": "Selection and application guide - SIMOVAC non-arc-resistant and SIMOVAC-AR arc-resistant medium-voltage controllers",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/348050/ANSI_MV_SIMOVAC_SGSA_EN.pdf"
+                },
+                {
+                    "name": "Specification - 26 18 39 03 arc-resistant medium-voltage motor controller",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/3012306/ANSI_MV_SIMOVAC-AR_26_18_39_MEDIUM-VOLTAGE_CONTROLLERS_ARC-RESISTANT_EN.docx"
+                },
+                {
+                    "name": "Specification - 26 18 39 03 non-arc-resistant medium-voltage motor controller",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/webdav/guest/document_library/Specification%20Sheet/1/ANSI_MV_SIMOVAC_26_18_39_MEDIUM-VOLTAGE_CONTROLLERS_NON-ARC-RESISTANT_EN.docx"
+                },
+                {
+                    "name": "Specification 26 18 39 03 solid-state reduced-voltage medium-voltage controllers",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/3012306/ANSI_MV_SIMOVAC_26_18_39_SSRV_MEDIUM-VOLTAGE_CONTROLLERS_NON-ARC_and_ARC.zip"
+                },
+                {
+                    "name": "Instruction manual - SIMOVAC non-arc-resistant and SIMOVAC-AR arc-resistant medium-voltage controllers",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/306738/ANSI_MV_SIMOVAC_IM_EN.pdf"
+                },
+                {
+                    "name": "Instruction manual - SIMOVAC-SSRVS non-arc-resistant and SIMOVAC-SSRVS-AR arc-resistant solid-state reduced-voltage controller",
+                    "url": "https://digitalcontentcenter.compas.siemens-info.com/documents/20181/306738/ANSI_MV_SIMOVAC-SSRV_IM_EN.pdf"
+                }
+            ]
+        },
+        "imageLink": "assets/products/Prod_Family/Medium-Voltage Motor Controllers.jpg",
+        "products": [
+            {
+                "name": null,
+                "description": null,
+                "imageUrl": null,
+                "productDetails": [
+                    {
+                        "subHeading": "Typical motor and feeder applications:",
+                        "description": null,
+                        "details": [
+                            "Squirrel-cage induction motors (non-reversing, reversing, multi-speed or soft start)",
+                            "Transformer feeder",
+                            "Power bus feeders (tie)."
+                        ]
+                    },
+                    {
+                        "subHeading": "Typical controller types:",
+                        "description": null,
+                        "details": [
+                            "Full-voltage non-reversing (FVNR)",
+                            "Full-voltage reversing (FVR)",
+                            "Two-speed two winding (2S2W)",
+                            "Two-speed one winding (2S1W)",
+                            "Reduced-voltage autotransformer (RVAT)",
+                            "Solid-state reduced-voltage (or soft start) starter (SSRVS)."
+                        ]
+                    },
+                    {
+                        "subHeading": "Features",
+                        "description": null,
+                        "details": [
+                            "SIMOVAC-AR tested for arc-resistance to IEEE C37.20.7, type 2B",
+                            "Complies with UL 347 6th edition (same as CSA C22.2 No. 253-09) (UL / cUL Listing not available on 720 A SSRVS controller)",
+                            "400 A bolt-in or stab-in (optional) or 720 A bolt-in vacuum contactor",
+                            "400 A or 720 A non-load-break isolation switch",
+                            "2.4 kV, 4.16 kV and 6.9 kV (up to 7.65 kV) system voltage ratings",
+                            "1,200 A, 2,000 A, 3,000 A or 4,000 A main bus with standard epoxy insulation on bus bars, and with optional boots for insulating joints",
+                            "Tin- or silver-plated bus available",
+                            "Front accessible",
+                            "Main bus and ground bus are supported and braced to 63 kA two-second short-time capability",
+                            "Top-mounted pressure relief channel shipped installed for reduced site installation time",
+                            "Isolation switch with visible indication through viewing window to verify that the power cell is isolated from line-side source ‒ no need to open panel door",
+                            "Isolation switch mechanically interlocked with the access door to prevent user access to primary compartment when isolation switch is closed",
+                            "Low-voltage compartment is isolated from the medium-voltage compartment",
+                            "All components are front accessible, facilitating routine inspection or parts replacement",
+                            "Current-limiting fuses, contactor assembly and isolating switch assembly are easily removed from the enclosure",
+                            "The main bus compartment is top, side and front accessible for easy installation and extension."
+                        ]
+                    },
+                    {
+                        "subHeading": "Medium-voltage motor controllers are available as:",
+                        "description": null,
+                        "details": [
+                            "Type 1 non-gasketed",
+                            "Type 1 gasketed (rear panels only)",
+                            "Type 2 drip resistant (SIMOVAC non-arc-resistant only)",
+                            "Type 3R (SIMOVAC non-arc-resistant only)",
+                            "Type 12 dust tight (SIMOVAC non-arc-resistant only)."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "speedFax": null,
+        "hasParent": false,
+        "parentName": "",
+        "productSelector": "",
+        "parentRoute": "",
+        "pageInW3": "Medium-Voltage Motor Controllers"
+    }
+]

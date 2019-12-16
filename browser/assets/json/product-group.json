@@ -1,0 +1,133 @@
+[
+    {
+        "webGlModel": "Busway Systems",
+        "route": "busway-systems",
+        "heading": "Busway Systems",
+        "headline": "Innovative Busway Solutions for Your Power Distribution",
+        "introDescription": "When you need a cost-effective power delivery solution, you face the challenge of balancing performance with value to efficiently distribute power throughout your facility. Siemens offers you the industry’s most complete and modern line of busway products – an extensive range of options that lets you match your site-specific requirements with an optimized power delivery solution. These innovative solutions encompass the world’s most comprehensive and technologically advanced busway products for the automotive, industrial, commercial/institutional, high-rise multi-occupancy, data center, and high-tech applications. For added convenience, our busway products and accessories are readily available, easy to order and install.",
+        "imageLink": "assets/products/Prod_Group/Busway Systems.jpg",
+        "childProducts": [
+            "low-amp-busway",
+            "sentron-busway"
+        ],
+        "pageInW3": "Busway Systems"
+    },
+    {
+        "webGlModel": null,
+        "route": "low-voltage-circuit-breakers",
+        "heading": "Low Voltage Circuit Breakers",
+        "headline": "The most comprehensive circuit protection for your applications",
+        "introDescription": "Siemens - a name that stands for innovation and quality - offers one of the most comprehensive lines of Molded Case Circuit Breakers on the market today. With current ratings from 3A to 2000A and interrupt ratings up to 200kA at 480V, the possibilities are endless. Geared for Industrial, Commercial and OEM applications, when it comes to ready availability, easy installation, and quality, you need a manufacturer you can trust. Our products are engineered to take on the most demanding conditions day after day.",
+        "imageLink": "assets/products/Prod_Group/Low Voltage Circuit Breakers.jpg",
+        "childProducts": [
+            "general-purpose-molded-case-circuit-breakers",
+            "3va-molded-case-circuit-breakers",
+            "vl-molded-case-circuit-breakers",
+            "wl-power-breakers",
+            "General Purpose Molded Case Circuit Breaker",
+            "Sentron Molded Case Circuit Breaker"
+        ],
+        "pageInW3": "Low Voltage Circuit Breakers"
+    },
+    {
+        "webGlModel": null,
+        "route": "low-voltage-switchgear",
+        "heading": "Low Voltage Switchgear",
+        "headline": "Superior power distribution with Siemens Low Voltage Switchgear",
+        "introDescription": "Siemens low voltage switchgear is designed, tested, and constructed to provide superior power distribution, power monitoring, and control. Utilized in a range of applications like industrial, institutional, critical power, and commercial, the switchgear solution is created for your world-class operations.",
+        "imageLink": "assets/products/Prod_Group/Low Voltage Switchgear.jpg",
+        "childProducts": [
+            "rear-connected-switchgear",
+            "arc-resistant-switchgear",
+            "front-connected-lv-switchgear"
+        ],
+        "pageInW3": "Low Voltage Switchgear"
+    },
+    {
+        "webGlModel": "Distribution Switchboards",
+        "route": "switchboards",
+        "heading": "Switchboards",
+        "headline": "Siemens switchboards cover the entire spectrum of customer applications",
+        "introDescription": "Every aspect of Siemens switchboard design has been aimed at improving layout convenience, reducing installation costs and minimizing the impact and cost of system changes. Regardless of your application or requirements, one of Siemens switchboard products will meet your needs.",
+        "imageLink": "assets/products/switchboard(1).jpg",
+        "childProducts": [
+            "front-connected-switchboards",
+            "rear-connected-switchboards",
+            "SB Front Switchboards",
+            "Stock Switchboards"
+        ],
+        "pageInW3": "Switchboards"
+    },
+    {
+        "webGlModel": "Metering",
+        "route": "multi-family-metering",
+        "heading": "Multi-Family Metering",
+        "headline": "Extensive product line of multi-family metering devices",
+        "introDescription": "Siemens Power Mod and Uni-PAK are robust, flexible and feature-rich products designed to exceed today's multi-family market demands. Power Mod's exclusive QuickSystem has been proven to reduce labor by as much as 43% over comparable solutions while exclusive products, such as the WXB family of cross bus mains, allow for lower material cost and incredible flexibility. Uni-PAK offers many of the same features and benefits as Power Mod in one compact and easy to install enclosure.",
+        "imageLink": "assets/products/Prod_Group/Multi-Family Metering.jpg",
+        "childProducts": [
+            "powermod-metering",
+            "pak-metering"
+        ],
+        "pageInW3": "Multi-Family Metering"
+    },
+    {
+        "webGlModel": null,
+        "route": "switches",
+        "heading": "Switches",
+        "headline": "The industry's most trusted safety switches",
+        "introDescription": "Siemens safety switches provide superior performance and application flexibility. An extended array of accessories and replacement parts reduce installation and operating costs. Our switches feature quick make and break operation and visible blade construction. Available in 30-1200 amps, fusible and non-fusible, AC and DC applications, and a variety of NEMA rated enclosures.",
+        "imageLink": "assets/products/Prod_Group/Switches.jpg",
+        "childProducts": [
+            "general-heavy-duty-safety-switches",
+            "panelboard-switches",
+            "disconnect-switches",
+            "General Duty Safety Switches",
+            "Heavy Duty Safety Switches",
+            "Double Throw & Specialty Switches"
+        ],
+        "pageInW3": "Switches"
+    },
+    {
+        "webGlModel": null,
+        "route": "panelboards",
+        "heading": "Panelboards",
+        "headline": "Offering an innovative range of panelboard products that represent the high level of innovation expected from Siemens",
+        "introDescription": "Siemens family of panelboard products offer flexibility, strength and are extremely easy to install. These newer, innovative and environmentally friendly designs also simplify wiring and reduce material requirements, saving additional installation time. Selective coordination with Siemens new technology circuit breakers offer significant benefits and better coordination with upstream breakers that help meet Code requirements. Siemens continues to add new breaker types with features and benefits that keep Siemens panelboards at the fore front of the industry.",
+        "imageLink": "assets/products/Prod_Group/Panelboards.jpg",
+        "childProducts": [
+            "lighting-panels",
+            "fusible-panels",
+            "power-panels"
+        ],
+        "pageInW3": "Panelboards"
+    },
+    {
+        "webGlModel": "Single Family Metering",
+        "route": "single-family-metering",
+        "heading": "Single-Family Metering",
+        "headline": "Providing a full range of meters for safety, easy installation and long-term quality",
+        "introDescription": "Siemens offers a robust, flexible and feature-rich line of residential metering products that are designed to exceed today's market demand. We offer several different Meter Load Center Combinations proven to maximize productivity and reduce labor costs, while allowing for lower material costs and increased flexibility. Siemens has also introduced a line of SOLAR Ready Meter Combination Load Centers to reduce energy consumption for a more sustainable environment.",
+        "imageLink": "assets/products/Prod_Group/Single-Family Metering.jpg",
+        "childProducts": [
+            "meter-mains",
+            "talon"
+        ],
+        "pageInW3": "Single-Family Metering"
+    },
+    {
+        "webGlModel": null,
+        "route": "digital-power-monitoring",
+        "heading": "Digital Power Monitoring",
+        "headline": "",
+        "introDescription": "High efficiency and sustainability with digital power monitoring.",
+        "imageLink": "assets/products/Prod_Group/Digital Power Monitoring.jpg",
+        "childProducts": [
+            "sem3-meters",
+            "power-quality-meters",
+            "electrical-power-monitoring",
+            "digital-solutions"
+        ],
+        "pageInW3": "Digital Power Monitoring"
+    }
+]

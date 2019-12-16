@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Residential",
+    "text": "Residential Projects",
+    "thumbnail": "assets/solutions/powertrek_images/residential.jpg",
+    "icon": "assets/solutions/icon/Residential.png",
+    "description": "Siemens' residential electrical products provide you with secure and reliable electric power. Our innovative and feature rich products provide the installer labour savings through ease of installation while being best in class for reliability.",
+    "projects": [
+      {
+        "name": "Single Family Homes",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Load Centers" },
+          { "name": "Miniature Breakers" },
+          { "name": "Renewables" },
+          { "name": "Standby Power" },
+          { "name": "Surge Protection" }
+        ]
+      },
+      {
+        "name": "Multi-Family Homes",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Load Centers" },
+          { "name": "Metering" },
+          { "name": "Miniature Breakers" }
+        ]
+      },
+      {
+        "name": "Apartment Building",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Load Centers" },
+          { "name": "Metering" },
+          { "name": "Miniature Breakers" },
+          { "name": "Renewables" },
+          { "name": "Standby Power" },
+          { "name": "Surge Protection" }
+        ]
+      },
+      {
+        "name": "Mobile Home / Manufactured Housing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Load Centers" },
+          { "name": "Miniature Breakers" },
+          { "name": "Surge Protection" }
+        ]
+      },
+      {
+        "name": "Residential Subdivision (lighting control)",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Transformers" },
+          { "name": "Construction Control" }
+        ]
+      },
+      {
+        "name": "Custom Homes",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Construction Control" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Small Commercial",
+    "text": "Small Commercial Projects",
+    "thumbnail": "assets/solutions/powertrek_images/small_commercial.jpg",
+    "icon": "assets/solutions/icon/Small-Commercial.png",
+    "description": "Small Commercial Projects(SCP) are projects that are typically user defined, require some modifications and that could be a combimation of engineered and/or over the counter products. Siemens' solutions in this space could be, but not limited to, panel boards, safety switches, modular metering and transformers. SCP is typically featured in commercial grading applications along with K-12, High-Rise and Mixed use.",
+    "projects": [
+      {
+        "name": "High Rise Mixed Use",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Molded Case Circuit Breakers" },
+          { "name": "Load Centers" },
+          { "name": "Lighting Panels" },
+          { "name": "UPB" },
+          { "name": "Miniature Breakers" },
+          { "name": "Surge Protection" },
+          { "name": "Standby Power" },
+          { "name": "Metering" },
+          { "name": "Safety Switches" },
+          { "name": "Busway Systems" }
+        ]
+      },
+      {
+        "name": "Gas Station",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Molded Case Circuit Breakers" },
+          { "name": "Load Centers" },
+          { "name": "UPB" },
+          { "name": "Miniature Breakers" },
+          { "name": "Lighting Panels" },
+          { "name": "Power Panels" },
+          { "name": "Safety Switches" },
+          { "name": "Surge Protection" },
+          { "name": "Transformers" },
+          { "name": "Construction Control" }
+        ]
+      },
+      {
+        "name": "Mixed Use Retail (like a mall)",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Molded Case Circuit Breakers" },
+          { "name": "Load Centers" },
+          { "name": "Miniature Breakers" },
+          { "name": "Surge Protection" },
+          { "name": "Renewables" },
+          { "name": "Lighting Panels" },
+          { "name": "UPB" },
+          { "name": "Power Panels" },
+          { "name": "Safety Switches" },
+          { "name": "Construction Control" },
+          { "name": "Metering" },
+          { "name": "Switchboards" },
+          { "name": "Transformers" }
+        ]
+      },
+      {
+        "name": "Office Park",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Molded Case Circuit Breakers" },
+          { "name": "Load Centers" },
+          { "name": "UPB" },
+          { "name": "Metering" },
+          { "name": "Miniature Breakers" },
+          { "name": "Lighting Panels" },
+          { "name": "Power Panels" },
+          { "name": "Switchboards" },
+          { "name": "Safety Switches" },
+          { "name": "Renewables" },
+          { "name": "Standby Power" },
+          { "name": "Transformers" },
+          { "name": "Construction Control" }
+        ]
+      },
+      {
+        "name": "Warehouse",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Molded Case Circuit Breakers" },
+          { "name": "Load Centers" },
+          { "name": "UPB" },
+          { "name": "Lighting Panels" },
+          { "name": "Miniature Breakers" },
+          { "name": "Busway Systems" }
+        ]
+      },
+      {
+        "name": "Grocery Store",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Molded Case Circuit Breakers" },
+          { "name": "Power Panels" },
+          { "name": "UPB" },
+          { "name": "Lighting Panels" },
+          { "name": "Safety Switches" },
+          { "name": "Standby Power" }
+        ]
+      },
+      {
+        "name": "Senior Livivng Facility",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Standby Power" },
+          { "name": "Lighting Panels" },
+          { "name": "UPB" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Large Construction",
+    "text": "Large Construction Projects",
+    "thumbnail": "assets/solutions/powertrek_images/Large_cunstruct.jpg",
+    "icon": "assets/solutions/icon/Large-Construction.png",
+    "description": "Large Construction Projects are projects that require engineered solutions to meet the customer's unique specifications. These projects allow for creative solutions to meet the application's needs and requirements. Complex construction applications typically contain but not limited to low voltage switchgear, busway, switchboards, power monitoring and power panels.",
+    "projects": [
+      {
+        "name": "Airports",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Power Breakers" },
+          { "name": "Lighting Panels" },
+          { "name": "UPB" },
+          { "name": "Power Panels" },
+          { "name": "Switchboards" },
+          { "name": "Safety Switches" },
+          { "name": "Busway Systems" },
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "SIEBREAK" },
+          { "name": "Transformers" },
+          { "name": "Construction Control" },
+          { "name": "Low Voltage Switchgear" },
+          { "name": "Air Insulated Switchgear" },
+          { "name": "Medium-Voltage Motor Controllers" },
+          { "name": "Low Voltage Motor Controllers" },
+          { "name": "Surge Protection" }
+        ]
+      },
+      {
+        "name": "Stadiums",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Power Breakers" },
+          { "name": "Lighting Panels" },
+          { "name": "UPB" },
+          { "name": "Power Panels" },
+          { "name": "Switchboards" },
+          { "name": "Safety Switches" },
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "SIEBREAK" },
+          { "name": "Transformers" },
+          { "name": "Construction Control" },
+          { "name": "Low Voltage Switchgear" },
+          { "name": "Medium-Voltage Motor Controllers" },
+          { "name": "Low Voltage Motor Controllers" },
+          { "name": "Surge Protection" }
+        ]
+      },
+      {
+        "name": "Hospitals",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Power Breakers" },
+          { "name": "Lighting Panels" },
+          { "name": "UPB" },
+          { "name": "Power Panels" },
+          { "name": "Switchboards" },
+          { "name": "Safety Switches" },
+          { "name": "Standby Power" },
+          { "name": "SIEBREAK" },
+          { "name": "Transformers" },
+          { "name": "Construction Control" },
+          { "name": "Low Voltage Switchgear" },
+          { "name": "Power Monitoring" },
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "Medium-Voltage Motor Controllers" },
+          { "name": "Low Voltage Motor Controllers" },
+          { "name": "Surge Protection" }
+        ]
+      },
+      {
+        "name": "School / College Buildings",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Power Breakers" },
+          { "name": "Lighting Panels" },
+          { "name": "UPB" },
+          { "name": "Power Panels" },
+          { "name": "Switchboards" },
+          { "name": "Safety Switches" },
+          { "name": "Busway Systems" },
+          { "name": "SIEBREAK" },
+          { "name": "Transformers" },
+          { "name": "Construction Control" },
+          { "name": "Low Voltage Switchgear" },
+          { "name": "Medium-Voltage Motor Controllers" },
+          { "name": "Low Voltage Motor Controllers" },
+          { "name": "Surge Protection" }
+        ]
+      },
+      {
+        "name": "Data Centers",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Power Breakers" },
+          { "name": "Lighting Panels" },
+          { "name": "UPB" },
+          { "name": "Power Panels" },
+          { "name": "Switchboards" },
+          { "name": "Safety Switches" },
+          { "name": "Busway Systems" },
+          { "name": "Surge Protection" },
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "Transformers" },
+          { "name": "Low Voltage Switchgear" },
+          { "name": "Power Monitoring" },
+          { "name": "Air Insulated Switchgear" },
+          { "name": "Medium-Voltage Motor Controllers" },
+          { "name": "SIEBREAK" },
+          { "name": "Low Voltage Motor Controllers" }
+        ]
+      },
+      {
+        "name": "Military Bases",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Power Breakers" },
+          { "name": "Lighting Panels" },
+          { "name": "UPB" },
+          { "name": "Power Panels" },
+          { "name": "Switchboards" },
+          { "name": "Safety Switches" },
+          { "name": "Busway Systems" },
+          { "name": "Power Monitoring" },
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "SIEBREAK" },
+          { "name": "Low Voltage Motor Controllers" },
+          { "name": "Medium-Voltage Motor Controllers" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Industrial",
+    "text": "Industrial Projects",
+    "thumbnail": "assets/solutions/powertrek_images/industrial.jpg",
+    "icon": "assets/solutions/icon/Industrial.png",
+    "description": "Factories, Plants, etc. an Industrial project means the land, buildings, equipment, facilities, and improvements required for use by manufacturing or industrial enterprise. Usually complex projects, the Industrial projects often require the entire Low Voltage and Medium Voltage Apparatus product portfolios, from Power Panels to Switchgear and including Motor Controllers, Busway, Switchboard, etc.",
+    "projects": [
+      {
+        "name": "Factories",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Lighting Panels" },
+          { "name": "Power Panels" },
+          { "name": "Switchboards" },
+          { "name": "Safety Switches" },
+          { "name": "Busway Systems" },
+          { "name": "Renewables" },
+          { "name": "Standby Power" },
+          { "name": "Power Monitoring" },
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "Air Insulated Switchgear" },
+          { "name": "Transformers" },
+          { "name": "Construction Control" },
+          { "name": "Low Voltage Switchgear" },
+          { "name": "Medium-Voltage Motor Controllers" },
+          { "name": "SIEBREAK" },
+          { "name": "Low Voltage Motor Controllers" },
+          { "name": "Surge Protection" }
+        ]
+      },
+      {
+        "name": "Water/Waste Water",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Switchboards" },
+          { "name": "Safety Switches" },
+          { "name": "Busway Systems" },
+          { "name": "Low Voltage Switchgear" },
+          { "name": "Power Monitoring" },
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "Air Insulated Switchgear" },
+          { "name": "Medium-Voltage Motor Controllers" },
+          { "name": "SIEBREAK" },
+          { "name": "Low Voltage Motor Controllers" },
+          { "name": "Surge Protection" }
+        ]
+      },
+      {
+        "name": "Petro-Chemical Plant",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Switchboards" },
+          { "name": "Safety Switches" },
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "Air Insulated Switchgear" },
+          { "name": "SIEBREAK" },
+          { "name": "Low Voltage Motor Controllers" },
+          { "name": "Power Monitoring" },
+          { "name": "Low Voltage Switchgear" }
+        ]
+      },
+      {
+        "name": "Pulp and Paper",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Power Monitoring" },
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "Air Insulated Switchgear" },
+          { "name": "Medium-Voltage Motor Controllers" },
+          { "name": "Low Voltage Motor Controllers" },
+          { "name": "Medium Voltage Breakers" }
+        ]
+      },
+      {
+        "name": "Chemical Plant",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Power Monitoring" },
+          { "name": "Medium-Voltage Motor Controllers" }
+        ]
+      },
+      {
+        "name": "Refinery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "Air Insulated Switchgear" },
+          { "name": "Medium-Voltage Motor Controllers" },
+          { "name": "Low Voltage Motor Controllers" },
+          { "name": "Medium Voltage Breakers" }
+        ]
+      },
+      {
+        "name": "Off-shore oil adrilling platform",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Low Voltage Motor Controllers" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Utility",
+    "text": "Utility Projects",
+    "thumbnail": "assets/solutions/powertrek_images/utility.jpg",
+    "icon": "assets/solutions/icon/Utility.png",
+    "description": "Transmission & Distribution Substations and Power Generation Plants are critical elements of Utilities Infrastructures. Siemens offers a wide variety of technical products to help Utilities meet local, state, and federal regulations as well as develop new and ever more efficient systems to support Infrastructures.",
+    "projects": [
+      {
+        "name": "Power Pole",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Overhead Utility" }
+        ]
+      },
+      {
+        "name": "Transmission Substations",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "Air Insulated Switchgear" },
+          { "name": "Shelter-Clad" },
+          { "name": "Medium Voltage Breakers" }
+        ]
+      },
+      {
+        "name": "Distribution Substations",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "Air Insulated Switchgear" },
+          { "name": "Medium Voltage Breakers" }
+        ]
+      },
+      {
+        "name": "Power Generation Plant",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+        "equipments": [
+          { "name": "Low Voltage Switchgear" },
+          { "name": "Gas Insulated Switchgear" },
+          { "name": "Air Insulated Switchgear" },
+          { "name": "Medium Voltage Breakers" }
+        ]
+      }
+    ]
+  }
+]
